@@ -54,6 +54,15 @@ setReadOnly( ns, 'dlacpy', require( './../../base/dlacpy' ) );
 */
 setReadOnly( ns, 'dlaswp', require( './../../base/dlaswp' ) );
 
+/**
+* @name dpttrf
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/dpttrf}
+*/
+setReadOnly( ns, 'dpttrf', require( './../../base/dpttrf' ) );
+
 
 // EXPORTS //
 
