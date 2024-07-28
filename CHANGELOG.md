@@ -57,6 +57,28 @@
 
 <!-- /.package -->
 
+<section class="package" id="lapack-base-dlacpy-unreleased">
+
+#### [@stdlib/lapack/base/dlacpy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/dlacpy)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`6953aae`](https://github.com/stdlib-js/stdlib/commit/6953aae41e500330c26a43137b417d523ffdaaeb) - add `lapack/base/dlacpy` [(#2548)](https://github.com/stdlib-js/stdlib/pull/2548)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="lapack-base-dlaswp-unreleased">
 
 #### [@stdlib/lapack/base/dlaswp](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/dlaswp)
@@ -132,6 +154,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`6953aae`](https://github.com/stdlib-js/stdlib/commit/6953aae41e500330c26a43137b417d523ffdaaeb) - **feat:** add `lapack/base/dlacpy` [(#2548)](https://github.com/stdlib-js/stdlib/pull/2548) _(by Pranav Goswami, Athan Reines)_
 -   [`04b258f`](https://github.com/stdlib-js/stdlib/commit/04b258f50b436e95832b6d6d4d892cee5aa36ed3) - **docs:** update definition _(by Athan Reines)_
 -   [`d61d3f5`](https://github.com/stdlib-js/stdlib/commit/d61d3f5ad8faab321a3ac0159f9b04f6aca4a2bd) - **docs:** fix comments _(by Athan Reines)_
 -   [`6e4b9eb`](https://github.com/stdlib-js/stdlib/commit/6e4b9ebc31d9629446019e37e31bfe9b180b675c) - **feat:** update namespace TypeScript declarations [(#2681)](https://github.com/stdlib-js/stdlib/pull/2681) _(by stdlib-bot, Philipp Burckhardt)_
