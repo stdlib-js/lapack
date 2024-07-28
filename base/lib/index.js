@@ -46,6 +46,15 @@ var ns = {};
 setReadOnly( ns, 'dlacpy', require( './../../base/dlacpy' ) );
 
 /**
+* @name dlassq
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/dlassq}
+*/
+setReadOnly( ns, 'dlassq', require( './../../base/dlassq' ) );
+
+/**
 * @name dlaswp
 * @memberof ns
 * @readonly
