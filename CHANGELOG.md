@@ -43,6 +43,7 @@
 
 ##### Features
 
+-   [`82d3d97`](https://github.com/stdlib-js/stdlib/commit/82d3d97793a601775bf76dfcac3a5e1c0748af44) - update namespace TypeScript declarations [(#2697)](https://github.com/stdlib-js/stdlib/pull/2697)
 -   [`fbfb30f`](https://github.com/stdlib-js/stdlib/commit/fbfb30f07c232a40946da12ba5d461b713d096f3) - add `dlassq` to namespace
 -   [`5f94431`](https://github.com/stdlib-js/stdlib/commit/5f94431c127c93408f96c48a992085738c3b780f) - update namespace TypeScript declarations [(#2690)](https://github.com/stdlib-js/stdlib/pull/2690)
 -   [`7d399c6`](https://github.com/stdlib-js/stdlib/commit/7d399c672b81b82818a91f4f4bb2ca505481cf5a) - add `dpttrf` to namespace
@@ -202,6 +203,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`82d3d97`](https://github.com/stdlib-js/stdlib/commit/82d3d97793a601775bf76dfcac3a5e1c0748af44) - **feat:** update namespace TypeScript declarations [(#2697)](https://github.com/stdlib-js/stdlib/pull/2697) _(by stdlib-bot, Athan Reines)_
 -   [`4569092`](https://github.com/stdlib-js/stdlib/commit/4569092bbdf8eaed25eb429f4f51a77ab24947dc) - **docs:** update namespace table of contents [(#2692)](https://github.com/stdlib-js/stdlib/pull/2692) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`fbfb30f`](https://github.com/stdlib-js/stdlib/commit/fbfb30f07c232a40946da12ba5d461b713d096f3) - **feat:** add `dlassq` to namespace _(by Athan Reines)_
 -   [`8c74427`](https://github.com/stdlib-js/stdlib/commit/8c744275aab38f442c551777ce376b2a89a4be6c) - **feat:** add `lapack/base/dlassq` [(#2668)](https://github.com/stdlib-js/stdlib/pull/2668) _(by Pranav Goswami, Athan Reines)_
