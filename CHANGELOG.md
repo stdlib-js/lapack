@@ -43,6 +43,7 @@
 
 ##### Features
 
+-   [`c325e6a`](https://github.com/stdlib-js/stdlib/commit/c325e6ae798f7f103a3c375b045b39edde818958) - add `dlacpy` to namespace
 -   [`6e4b9eb`](https://github.com/stdlib-js/stdlib/commit/6e4b9ebc31d9629446019e37e31bfe9b180b675c) - update namespace TypeScript declarations [(#2681)](https://github.com/stdlib-js/stdlib/pull/2681)
 -   [`86ce889`](https://github.com/stdlib-js/stdlib/commit/86ce8890194313ebee3f047d19ea4d0f24d87c3d) - update namespace TypeScript declarations [(#2591)](https://github.com/stdlib-js/stdlib/pull/2591)
 -   [`429f55b`](https://github.com/stdlib-js/stdlib/commit/429f55b9db74ca8b92c02636c360819a93c0189f) - add `lapack/base` namespace
@@ -154,6 +155,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`c325e6a`](https://github.com/stdlib-js/stdlib/commit/c325e6ae798f7f103a3c375b045b39edde818958) - **feat:** add `dlacpy` to namespace _(by Athan Reines)_
 -   [`6953aae`](https://github.com/stdlib-js/stdlib/commit/6953aae41e500330c26a43137b417d523ffdaaeb) - **feat:** add `lapack/base/dlacpy` [(#2548)](https://github.com/stdlib-js/stdlib/pull/2548) _(by Pranav Goswami, Athan Reines)_
 -   [`04b258f`](https://github.com/stdlib-js/stdlib/commit/04b258f50b436e95832b6d6d4d892cee5aa36ed3) - **docs:** update definition _(by Athan Reines)_
 -   [`d61d3f5`](https://github.com/stdlib-js/stdlib/commit/d61d3f5ad8faab321a3ac0159f9b04f6aca4a2bd) - **docs:** fix comments _(by Athan Reines)_
