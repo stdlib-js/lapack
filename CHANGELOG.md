@@ -179,6 +179,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`e67b649`](https://github.com/stdlib-js/stdlib/commit/e67b6490ac632a30e2dac27b33d078230181cc6f) - **docs:** update namespace table of contents [(#2691)](https://github.com/stdlib-js/stdlib/pull/2691) _(by stdlib-bot, Athan Reines)_
 -   [`5f94431`](https://github.com/stdlib-js/stdlib/commit/5f94431c127c93408f96c48a992085738c3b780f) - **feat:** update namespace TypeScript declarations [(#2690)](https://github.com/stdlib-js/stdlib/pull/2690) _(by stdlib-bot, Athan Reines)_
 -   [`7d399c6`](https://github.com/stdlib-js/stdlib/commit/7d399c672b81b82818a91f4f4bb2ca505481cf5a) - **feat:** add `dpttrf` to namespace _(by Athan Reines)_
 -   [`0630400`](https://github.com/stdlib-js/stdlib/commit/0630400bbf2b87197035c768e37a9ec6430db6b8) - **feat:** add `lapack/base/dpttrf` [(#2578)](https://github.com/stdlib-js/stdlib/pull/2578) _(by Pranav Goswami, Athan Reines)_
