@@ -49,6 +49,7 @@
     "@stdlib/bench": "github:stdlib-js/bench#main",
     "@stdlib/constants": "github:stdlib-js/constants#main",
     "@stdlib/random": "github:stdlib-js/random#main",
+    "@stdlib/strided": "github:stdlib-js/strided#main",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
