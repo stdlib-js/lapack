@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-07-30)
+## Unreleased (2024-07-31)
 
 <section class="packages">
 
@@ -204,6 +204,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`e712640`](https://github.com/stdlib-js/stdlib/commit/e71264067123dab80b4f387574583d3c176523d9) - **docs:** fix offset types _(by Athan Reines)_
 -   [`0b89aa1`](https://github.com/stdlib-js/stdlib/commit/0b89aa1ac2df073fcf9dd05960881f352d8920e5) - **feat:** update namespace TypeScript declarations [(#2710)](https://github.com/stdlib-js/stdlib/pull/2710) _(by stdlib-bot, Athan Reines)_
 -   [`c832f7e`](https://github.com/stdlib-js/stdlib/commit/c832f7e4303d3c12421e10e06b6c1136ff12fca3) - **docs:** update namespace table of contents [(#2698)](https://github.com/stdlib-js/stdlib/pull/2698) _(by stdlib-bot, Athan Reines)_
 -   [`82d3d97`](https://github.com/stdlib-js/stdlib/commit/82d3d97793a601775bf76dfcac3a5e1c0748af44) - **feat:** update namespace TypeScript declarations [(#2697)](https://github.com/stdlib-js/stdlib/pull/2697) _(by stdlib-bot, Athan Reines)_
