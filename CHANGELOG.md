@@ -166,6 +166,28 @@
 
 <!-- /.package -->
 
+<section class="package" id="lapack-base-slacpy-unreleased">
+
+#### [@stdlib/lapack/base/slacpy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/slacpy)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`ba0f3a0`](https://github.com/stdlib-js/stdlib/commit/ba0f3a07b022febd62d4f5f9616dff0c1648bf5a) - add `lapack/base/slacpy` [(#2716)](https://github.com/stdlib-js/stdlib/pull/2716)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
@@ -204,6 +226,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`ba0f3a0`](https://github.com/stdlib-js/stdlib/commit/ba0f3a07b022febd62d4f5f9616dff0c1648bf5a) - **feat:** add `lapack/base/slacpy` [(#2716)](https://github.com/stdlib-js/stdlib/pull/2716) _(by Pranav Goswami, Athan Reines)_
 -   [`e712640`](https://github.com/stdlib-js/stdlib/commit/e71264067123dab80b4f387574583d3c176523d9) - **docs:** fix offset types _(by Athan Reines)_
 -   [`0b89aa1`](https://github.com/stdlib-js/stdlib/commit/0b89aa1ac2df073fcf9dd05960881f352d8920e5) - **feat:** update namespace TypeScript declarations [(#2710)](https://github.com/stdlib-js/stdlib/pull/2710) _(by stdlib-bot, Athan Reines)_
 -   [`c832f7e`](https://github.com/stdlib-js/stdlib/commit/c832f7e4303d3c12421e10e06b6c1136ff12fca3) - **docs:** update namespace table of contents [(#2698)](https://github.com/stdlib-js/stdlib/pull/2698) _(by stdlib-bot, Athan Reines)_
