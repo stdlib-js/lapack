@@ -49,6 +49,7 @@
   "devDependencies": {
     "@stdlib/bench": "github:stdlib-js/bench#main",
     "@stdlib/constants": "github:stdlib-js/constants#main",
+    "@stdlib/number": "github:stdlib-js/number#main",
     "@stdlib/random": "github:stdlib-js/random#main",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",

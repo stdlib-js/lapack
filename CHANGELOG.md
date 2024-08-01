@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-07-31)
+## Unreleased (2024-08-01)
 
 <section class="packages">
 
@@ -188,6 +188,28 @@
 
 <!-- /.package -->
 
+<section class="package" id="lapack-base-spttrf-unreleased">
+
+#### [@stdlib/lapack/base/spttrf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/spttrf)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`5e01b28`](https://github.com/stdlib-js/stdlib/commit/5e01b28c0cb96ba9d76ded9757788973a46d19c5) - add `lapack/base/spttrf` [(#2724)](https://github.com/stdlib-js/stdlib/pull/2724)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
@@ -226,6 +248,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`5e01b28`](https://github.com/stdlib-js/stdlib/commit/5e01b28c0cb96ba9d76ded9757788973a46d19c5) - **feat:** add `lapack/base/spttrf` [(#2724)](https://github.com/stdlib-js/stdlib/pull/2724) _(by Pranav Goswami, Athan Reines)_
 -   [`ba0f3a0`](https://github.com/stdlib-js/stdlib/commit/ba0f3a07b022febd62d4f5f9616dff0c1648bf5a) - **feat:** add `lapack/base/slacpy` [(#2716)](https://github.com/stdlib-js/stdlib/pull/2716) _(by Pranav Goswami, Athan Reines)_
 -   [`e712640`](https://github.com/stdlib-js/stdlib/commit/e71264067123dab80b4f387574583d3c176523d9) - **docs:** fix offset types _(by Athan Reines)_
 -   [`0b89aa1`](https://github.com/stdlib-js/stdlib/commit/0b89aa1ac2df073fcf9dd05960881f352d8920e5) - **feat:** update namespace TypeScript declarations [(#2710)](https://github.com/stdlib-js/stdlib/pull/2710) _(by stdlib-bot, Athan Reines)_
