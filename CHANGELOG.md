@@ -64,6 +64,28 @@
 
 <!-- /.package -->
 
+<section class="package" id="lapack-base-dge-trans-unreleased">
+
+#### [@stdlib/lapack/base/dge-trans](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/dge-trans)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`cd5ad1c`](https://github.com/stdlib-js/stdlib/commit/cd5ad1cf89fe37a15b6192b6b2961aeb0470803f) - add `lapack/base/dge-trans` [(#2734)](https://github.com/stdlib-js/stdlib/pull/2734)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="lapack-base-dlacpy-unreleased">
 
 #### [@stdlib/lapack/base/dlacpy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/dlacpy)
@@ -270,6 +292,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`cd5ad1c`](https://github.com/stdlib-js/stdlib/commit/cd5ad1cf89fe37a15b6192b6b2961aeb0470803f) - **feat:** add `lapack/base/dge-trans` [(#2734)](https://github.com/stdlib-js/stdlib/pull/2734) _(by Pranav Goswami, Athan Reines)_
 -   [`3646d49`](https://github.com/stdlib-js/stdlib/commit/3646d490449e83e4db4130b6a16544674550f5c7) - **feat:** add `lapack/base/slaswp` [(#2757)](https://github.com/stdlib-js/stdlib/pull/2757) _(by Pranav Goswami, Athan Reines)_
 -   [`febbe2e`](https://github.com/stdlib-js/stdlib/commit/febbe2ea07112261b50174ddaf03322374680fdc) - **feat:** add `slacpy` and `spttrf` to namespace _(by Athan Reines)_
 -   [`5e01b28`](https://github.com/stdlib-js/stdlib/commit/5e01b28c0cb96ba9d76ded9757788973a46d19c5) - **feat:** add `lapack/base/spttrf` [(#2724)](https://github.com/stdlib-js/stdlib/pull/2724) _(by Pranav Goswami, Athan Reines)_
