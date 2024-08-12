@@ -292,6 +292,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`584cd8d`](https://github.com/stdlib-js/stdlib/commit/584cd8d5bd602d00d51219203ad3dabf472dde01) - **docs:** fix description _(by Athan Reines)_
 -   [`cd5ad1c`](https://github.com/stdlib-js/stdlib/commit/cd5ad1cf89fe37a15b6192b6b2961aeb0470803f) - **feat:** add `lapack/base/dge-trans` [(#2734)](https://github.com/stdlib-js/stdlib/pull/2734) _(by Pranav Goswami, Athan Reines)_
 -   [`3646d49`](https://github.com/stdlib-js/stdlib/commit/3646d490449e83e4db4130b6a16544674550f5c7) - **feat:** add `lapack/base/slaswp` [(#2757)](https://github.com/stdlib-js/stdlib/pull/2757) _(by Pranav Goswami, Athan Reines)_
 -   [`febbe2e`](https://github.com/stdlib-js/stdlib/commit/febbe2ea07112261b50174ddaf03322374680fdc) - **feat:** add `slacpy` and `spttrf` to namespace _(by Athan Reines)_
