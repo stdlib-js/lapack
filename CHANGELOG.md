@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-01)
+## Unreleased (2024-08-12)
 
 <section class="packages">
 
@@ -118,6 +118,7 @@
 
 ##### Features
 
+-   [`3646d49`](https://github.com/stdlib-js/stdlib/commit/3646d490449e83e4db4130b6a16544674550f5c7) - add `lapack/base/slaswp` [(#2757)](https://github.com/stdlib-js/stdlib/pull/2757)
 -   [`812e033`](https://github.com/stdlib-js/stdlib/commit/812e0334a74ea13f3e0bf0e3ed3453c1933f8d43) - remove `order` argument from `ndarray` method
 -   [`f2dfdb3`](https://github.com/stdlib-js/stdlib/commit/f2dfdb389aadc142ce36367e92e5492b082eef0a) - add `lapack/base/dlaswp` [(#2483)](https://github.com/stdlib-js/stdlib/pull/2483)
 
@@ -130,10 +131,9 @@
 ##### BREAKING CHANGES
 
 -   [`812e033`](https://github.com/stdlib-js/stdlib/commit/812e0334a74ea13f3e0bf0e3ed3453c1933f8d43): remove `order` argument from `ndarray` method
--   [`812e033`](https://github.com/stdlib-js/stdlib/commit/812e0334a74ea13f3e0bf0e3ed3453c1933f8d43): remove `order` argument from `ndarray` method 
 
     -   To migrate, users should drop the `order` argument when invoking
-    the `ndarray` method.
+        the `ndarray` method.
 
 </section>
 
@@ -189,6 +189,28 @@
 
 <!-- /.package -->
 
+<section class="package" id="lapack-base-slaswp-unreleased">
+
+#### [@stdlib/lapack/base/slaswp](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/slaswp)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`3646d49`](https://github.com/stdlib-js/stdlib/commit/3646d490449e83e4db4130b6a16544674550f5c7) - add `lapack/base/slaswp` [(#2757)](https://github.com/stdlib-js/stdlib/pull/2757)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="lapack-base-spttrf-unreleased">
 
 #### [@stdlib/lapack/base/spttrf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/spttrf)
@@ -220,10 +242,9 @@
 ### BREAKING CHANGES
 
 -   [`812e033`](https://github.com/stdlib-js/stdlib/commit/812e0334a74ea13f3e0bf0e3ed3453c1933f8d43): remove `order` argument from `ndarray` method
--   [`812e033`](https://github.com/stdlib-js/stdlib/commit/812e0334a74ea13f3e0bf0e3ed3453c1933f8d43): remove `order` argument from `ndarray` method 
 
     -   To migrate, users should drop the `order` argument when invoking
-    the `ndarray` method.
+        the `ndarray` method.
 
 </section>
 
@@ -249,6 +270,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`3646d49`](https://github.com/stdlib-js/stdlib/commit/3646d490449e83e4db4130b6a16544674550f5c7) - **feat:** add `lapack/base/slaswp` [(#2757)](https://github.com/stdlib-js/stdlib/pull/2757) _(by Pranav Goswami, Athan Reines)_
 -   [`febbe2e`](https://github.com/stdlib-js/stdlib/commit/febbe2ea07112261b50174ddaf03322374680fdc) - **feat:** add `slacpy` and `spttrf` to namespace _(by Athan Reines)_
 -   [`5e01b28`](https://github.com/stdlib-js/stdlib/commit/5e01b28c0cb96ba9d76ded9757788973a46d19c5) - **feat:** add `lapack/base/spttrf` [(#2724)](https://github.com/stdlib-js/stdlib/pull/2724) _(by Pranav Goswami, Athan Reines)_
 -   [`ba0f3a0`](https://github.com/stdlib-js/stdlib/commit/ba0f3a07b022febd62d4f5f9616dff0c1648bf5a) - **feat:** add `lapack/base/slacpy` [(#2716)](https://github.com/stdlib-js/stdlib/pull/2716) _(by Pranav Goswami, Athan Reines)_
