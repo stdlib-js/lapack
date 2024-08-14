@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-12)
+## Unreleased (2024-08-14)
 
 <section class="packages">
 
@@ -74,6 +74,7 @@
 
 ##### Features
 
+-   [`6515b3b`](https://github.com/stdlib-js/stdlib/commit/6515b3b3faa2faafefa945c04e5c6edb6596d5d7) - add `lapack/base/sge-trans` [(#2786)](https://github.com/stdlib-js/stdlib/pull/2786)
 -   [`cd5ad1c`](https://github.com/stdlib-js/stdlib/commit/cd5ad1cf89fe37a15b6192b6b2961aeb0470803f) - add `lapack/base/dge-trans` [(#2734)](https://github.com/stdlib-js/stdlib/pull/2734)
 
 </section>
@@ -189,6 +190,28 @@
 
 <!-- /.package -->
 
+<section class="package" id="lapack-base-sge-trans-unreleased">
+
+#### [@stdlib/lapack/base/sge-trans](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/sge-trans)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`6515b3b`](https://github.com/stdlib-js/stdlib/commit/6515b3b3faa2faafefa945c04e5c6edb6596d5d7) - add `lapack/base/sge-trans` [(#2786)](https://github.com/stdlib-js/stdlib/pull/2786)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="lapack-base-slacpy-unreleased">
 
 #### [@stdlib/lapack/base/slacpy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/slacpy)
@@ -292,6 +315,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`6515b3b`](https://github.com/stdlib-js/stdlib/commit/6515b3b3faa2faafefa945c04e5c6edb6596d5d7) - **feat:** add `lapack/base/sge-trans` [(#2786)](https://github.com/stdlib-js/stdlib/pull/2786) _(by Pranav Goswami, Athan Reines)_
 -   [`584cd8d`](https://github.com/stdlib-js/stdlib/commit/584cd8d5bd602d00d51219203ad3dabf472dde01) - **docs:** fix description _(by Athan Reines)_
 -   [`cd5ad1c`](https://github.com/stdlib-js/stdlib/commit/cd5ad1cf89fe37a15b6192b6b2961aeb0470803f) - **feat:** add `lapack/base/dge-trans` [(#2734)](https://github.com/stdlib-js/stdlib/pull/2734) _(by Pranav Goswami, Athan Reines)_
 -   [`3646d49`](https://github.com/stdlib-js/stdlib/commit/3646d490449e83e4db4130b6a16544674550f5c7) - **feat:** add `lapack/base/slaswp` [(#2757)](https://github.com/stdlib-js/stdlib/pull/2757) _(by Pranav Goswami, Athan Reines)_
