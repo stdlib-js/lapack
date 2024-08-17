@@ -2,6 +2,16 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-08-17)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.0">
 
 ## 0.1.0 (2024-08-17)
@@ -10,7 +20,7 @@
 
 ### Packages
 
-<section class="package" id="lapack-unreleased">
+<section class="package" id="lapack-v0.1.0">
 
 #### [@stdlib/lapack](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack)
 
@@ -33,7 +43,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="lapack-base-unreleased">
+<section class="package" id="lapack-base-v0.1.0">
 
 #### [@stdlib/lapack/base](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base)
 
@@ -64,7 +74,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="lapack-base-dge-trans-unreleased">
+<section class="package" id="lapack-base-dge-trans-v0.1.0">
 
 #### [@stdlib/lapack/base/dge-trans](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/dge-trans)
 
@@ -87,7 +97,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="lapack-base-dlacpy-unreleased">
+<section class="package" id="lapack-base-dlacpy-v0.1.0">
 
 #### [@stdlib/lapack/base/dlacpy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/dlacpy)
 
@@ -109,7 +119,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="lapack-base-dlassq-unreleased">
+<section class="package" id="lapack-base-dlassq-v0.1.0">
 
 #### [@stdlib/lapack/base/dlassq](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/dlassq)
 
@@ -131,7 +141,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="lapack-base-dlaswp-unreleased">
+<section class="package" id="lapack-base-dlaswp-v0.1.0">
 
 #### [@stdlib/lapack/base/dlaswp](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/dlaswp)
 
@@ -168,7 +178,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="lapack-base-dpttrf-unreleased">
+<section class="package" id="lapack-base-dpttrf-v0.1.0">
 
 #### [@stdlib/lapack/base/dpttrf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/dpttrf)
 
@@ -190,7 +200,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="lapack-base-sge-trans-unreleased">
+<section class="package" id="lapack-base-sge-trans-v0.1.0">
 
 #### [@stdlib/lapack/base/sge-trans](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/sge-trans)
 
@@ -212,7 +222,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="lapack-base-slacpy-unreleased">
+<section class="package" id="lapack-base-slacpy-v0.1.0">
 
 #### [@stdlib/lapack/base/slacpy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/slacpy)
 
@@ -234,7 +244,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="lapack-base-slaswp-unreleased">
+<section class="package" id="lapack-base-slaswp-v0.1.0">
 
 #### [@stdlib/lapack/base/slaswp](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/slaswp)
 
@@ -256,7 +266,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="lapack-base-spttrf-unreleased">
+<section class="package" id="lapack-base-spttrf-v0.1.0">
 
 #### [@stdlib/lapack/base/spttrf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/spttrf)
 
