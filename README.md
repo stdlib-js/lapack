@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import lapack from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack@esm/index.mjs';
+import lapack from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack@v0.1.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { base } from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack@esm/index.mjs';
+import { base } from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack@v0.1.1-esm/index.mjs';
 ```
 
 #### lapack
@@ -91,7 +91,7 @@ The namespace contains the following:
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils/keys@esm/index.mjs';
-import lapack from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack@esm/index.mjs';
+import lapack from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack@v0.1.1-esm/index.mjs';
 
 console.log( objectKeys( lapack ) );
 
