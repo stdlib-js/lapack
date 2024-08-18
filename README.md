@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import lapack from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack@deno/mod.js';
+import lapack from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack@v0.1.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { base } from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack@deno/mod.js';
+import { base } from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack@v0.1.1-deno/mod.js';
 ```
 
 #### lapack
@@ -86,7 +86,7 @@ The namespace contains the following:
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils/keys@deno/mod.js';
-import lapack from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack@deno/mod.js';
+import lapack from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack@v0.1.1-deno/mod.js';
 
 console.log( objectKeys( lapack ) );
 ```
