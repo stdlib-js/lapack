@@ -2,6 +2,71 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-08-22)
+
+<section class="packages">
+
+### Packages
+
+<section class="package" id="lapack-base-dlamch-unreleased">
+
+#### [@stdlib/lapack/base/dlamch](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/dlamch)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`536f5db`](https://github.com/stdlib-js/stdlib/commit/536f5dbb8b2170a59f8a0c0181d85889181d8a99) - add `lapack/base/dlamch` [(#2568)](https://github.com/stdlib-js/stdlib/pull/2568)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+</section>
+
+<!-- /.packages -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Pranav Goswami
+
+</section>
+
+<!-- /.contributors -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`536f5db`](https://github.com/stdlib-js/stdlib/commit/536f5dbb8b2170a59f8a0c0181d85889181d8a99) - **feat:** add `lapack/base/dlamch` [(#2568)](https://github.com/stdlib-js/stdlib/pull/2568) _(by Pranav Goswami, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2024-08-18)
