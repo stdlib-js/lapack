@@ -2,6 +2,16 @@
 
 > Package changelog.
 
+<section class="release" id="v0.1.3">
+
+## 0.1.3 (2024-11-05)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.2">
 
 ## 0.1.2 (2024-11-05)
@@ -10,7 +20,7 @@
 
 ### Packages
 
-<section class="package" id="lapack-base-dlamch-unreleased">
+<section class="package" id="lapack-base-dlamch-v0.1.2">
 
 #### [@stdlib/lapack/base/dlamch](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/dlamch)
 
