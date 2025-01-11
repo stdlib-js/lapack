@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-31)
+## Unreleased (2025-01-11)
 
 <section class="packages">
 
@@ -64,8 +64,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
@@ -78,6 +79,9 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
+-   [`685d5e1`](https://github.com/stdlib-js/stdlib/commit/685d5e1c76b6685eb27fa43e96755f3aa08856a7) - **test:** update test values to resolve ambiguity in expected values _(by Athan Reines)_
+-   [`b24284b`](https://github.com/stdlib-js/stdlib/commit/b24284bcc4a781d2ef01efc6bb1f0c8fd631dcb3) - **test:** improve test values to resolve ambiguity in expected values _(by Athan Reines)_
+-   [`321e49e`](https://github.com/stdlib-js/stdlib/commit/321e49e9965648f1b5eb6a840fe454959af0ec49) - **docs:** add missing periods to list items _(by Philipp Burckhardt)_
 -   [`e4a53d5`](https://github.com/stdlib-js/stdlib/commit/e4a53d5816f5918f7c7fc5135dce21d676835eca) - **docs:** update related packages sections [(#4399)](https://github.com/stdlib-js/stdlib/pull/4399) _(by stdlib-bot)_
 -   [`6c020d3`](https://github.com/stdlib-js/stdlib/commit/6c020d33665c4aec232196fd86214b296ddc7d36) - **chore:** use relative paths to load package.json file _(by Philipp Burckhardt)_
 -   [`8b1548f`](https://github.com/stdlib-js/stdlib/commit/8b1548fb45c1ff131f5edac20cb984344a2d28ec) - **feat:** update namespace TypeScript declarations [(#3190)](https://github.com/stdlib-js/stdlib/pull/3190) _(by stdlib-bot, Philipp Burckhardt)_
