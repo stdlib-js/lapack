@@ -44,6 +44,28 @@
 
 <!-- /.package -->
 
+<section class="package" id="lapack-base-zlacpy-unreleased">
+
+#### [@stdlib/lapack/base/zlacpy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/zlacpy)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`5e9a3e9`](https://github.com/stdlib-js/stdlib/commit/5e9a3e996d3494379ad6396856ee3a1fd0c06a61) - add `lapack/base/zlacpy` [(#4703)](https://github.com/stdlib-js/stdlib/pull/4703)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
@@ -64,10 +86,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Philipp Burckhardt
+-   Ricky Reusser
 
 </section>
 
@@ -79,6 +102,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`5e9a3e9`](https://github.com/stdlib-js/stdlib/commit/5e9a3e996d3494379ad6396856ee3a1fd0c06a61) - **feat:** add `lapack/base/zlacpy` [(#4703)](https://github.com/stdlib-js/stdlib/pull/4703) _(by Ricky Reusser, Athan Reines, stdlib-bot)_
 -   [`59f2160`](https://github.com/stdlib-js/stdlib/commit/59f2160b0a5fb8d0449b564d58feb5fd16c4e4f0) - **docs:** update examples _(by Athan Reines)_
 -   [`2e48726`](https://github.com/stdlib-js/stdlib/commit/2e48726f243a6aec47a6c1e748cfd0faefea9216) - **docs:** update examples _(by Athan Reines)_
 -   [`1f5d811`](https://github.com/stdlib-js/stdlib/commit/1f5d811a759c1604e8620a12fad29dde86bfff50) - **docs:** update examples _(by Athan Reines)_
