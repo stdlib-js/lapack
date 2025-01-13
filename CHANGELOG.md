@@ -102,6 +102,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`1024672`](https://github.com/stdlib-js/stdlib/commit/10246726f20f36d6322d74160e6f4d54805b02e4) - **docs:** update namespace TypeScript declaration comments [(#4729)](https://github.com/stdlib-js/stdlib/pull/4729) _(by stdlib-bot)_
 -   [`5e9a3e9`](https://github.com/stdlib-js/stdlib/commit/5e9a3e996d3494379ad6396856ee3a1fd0c06a61) - **feat:** add `lapack/base/zlacpy` [(#4703)](https://github.com/stdlib-js/stdlib/pull/4703) _(by Ricky Reusser, Athan Reines, stdlib-bot)_
 -   [`59f2160`](https://github.com/stdlib-js/stdlib/commit/59f2160b0a5fb8d0449b564d58feb5fd16c4e4f0) - **docs:** update examples _(by Athan Reines)_
 -   [`2e48726`](https://github.com/stdlib-js/stdlib/commit/2e48726f243a6aec47a6c1e748cfd0faefea9216) - **docs:** update examples _(by Athan Reines)_
