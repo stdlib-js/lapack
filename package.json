@@ -49,6 +49,8 @@
   },
   "devDependencies": {
     "@stdlib/bench": "github:stdlib-js/bench#main",
+    "@stdlib/complex": "github:stdlib-js/complex#main",
+    "@stdlib/console": "github:stdlib-js/console#main",
     "@stdlib/constants": "github:stdlib-js/constants#main",
     "@stdlib/random": "github:stdlib-js/random#main",
     "proxyquire": "^2.0.0",

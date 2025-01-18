@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-13)
+## Unreleased (2025-01-18)
 
 <section class="packages">
 
@@ -66,6 +66,28 @@
 
 <!-- /.package -->
 
+<section class="package" id="lapack-base-zrot-unreleased">
+
+#### [@stdlib/lapack/base/zrot](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/zrot)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`86163ea`](https://github.com/stdlib-js/stdlib/commit/86163ea9143a5f40e58f1d5c7307eaa07a64a39c) - add `lapack/base/zrot` [(#4772)](https://github.com/stdlib-js/stdlib/pull/4772)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
@@ -102,6 +124,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`86163ea`](https://github.com/stdlib-js/stdlib/commit/86163ea9143a5f40e58f1d5c7307eaa07a64a39c) - **feat:** add `lapack/base/zrot` [(#4772)](https://github.com/stdlib-js/stdlib/pull/4772) _(by Ricky Reusser, Athan Reines, stdlib-bot)_
 -   [`1024672`](https://github.com/stdlib-js/stdlib/commit/10246726f20f36d6322d74160e6f4d54805b02e4) - **docs:** update namespace TypeScript declaration comments [(#4729)](https://github.com/stdlib-js/stdlib/pull/4729) _(by stdlib-bot)_
 -   [`5e9a3e9`](https://github.com/stdlib-js/stdlib/commit/5e9a3e996d3494379ad6396856ee3a1fd0c06a61) - **feat:** add `lapack/base/zlacpy` [(#4703)](https://github.com/stdlib-js/stdlib/pull/4703) _(by Ricky Reusser, Athan Reines, stdlib-bot)_
 -   [`59f2160`](https://github.com/stdlib-js/stdlib/commit/59f2160b0a5fb8d0449b564d58feb5fd16c4e4f0) - **docs:** update examples _(by Athan Reines)_
