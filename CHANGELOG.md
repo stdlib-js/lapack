@@ -44,6 +44,28 @@
 
 <!-- /.package -->
 
+<section class="package" id="lapack-base-zlacgv-unreleased">
+
+#### [@stdlib/lapack/base/zlacgv](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/zlacgv)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`4e3292d`](https://github.com/stdlib-js/stdlib/commit/4e3292d5f4d82776caafbe046d8ee4a423faee4f) - add `lapack/base/zlacgv` [(#4725)](https://github.com/stdlib-js/stdlib/pull/4725)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="lapack-base-zlacpy-unreleased">
 
 #### [@stdlib/lapack/base/zlacpy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/zlacpy)
@@ -124,6 +146,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`4e3292d`](https://github.com/stdlib-js/stdlib/commit/4e3292d5f4d82776caafbe046d8ee4a423faee4f) - **feat:** add `lapack/base/zlacgv` [(#4725)](https://github.com/stdlib-js/stdlib/pull/4725) _(by Ricky Reusser, Athan Reines)_
 -   [`86163ea`](https://github.com/stdlib-js/stdlib/commit/86163ea9143a5f40e58f1d5c7307eaa07a64a39c) - **feat:** add `lapack/base/zrot` [(#4772)](https://github.com/stdlib-js/stdlib/pull/4772) _(by Ricky Reusser, Athan Reines, stdlib-bot)_
 -   [`1024672`](https://github.com/stdlib-js/stdlib/commit/10246726f20f36d6322d74160e6f4d54805b02e4) - **docs:** update namespace TypeScript declaration comments [(#4729)](https://github.com/stdlib-js/stdlib/pull/4729) _(by stdlib-bot)_
 -   [`5e9a3e9`](https://github.com/stdlib-js/stdlib/commit/5e9a3e996d3494379ad6396856ee3a1fd0c06a61) - **feat:** add `lapack/base/zlacpy` [(#4703)](https://github.com/stdlib-js/stdlib/pull/4703) _(by Ricky Reusser, Athan Reines, stdlib-bot)_
