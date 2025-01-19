@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-18)
+## Unreleased (2025-01-19)
 
 <section class="packages">
 
@@ -88,6 +88,28 @@
 
 <!-- /.package -->
 
+<section class="package" id="lapack-base-zlaset-unreleased">
+
+#### [@stdlib/lapack/base/zlaset](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/zlaset)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`8995729`](https://github.com/stdlib-js/stdlib/commit/8995729d86baba1711ca5c1305ebca1bb990f3ff) - add `lapack/base/zlaset` [(#4789)](https://github.com/stdlib-js/stdlib/pull/4789)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="lapack-base-zrot-unreleased">
 
 #### [@stdlib/lapack/base/zrot](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/zrot)
@@ -146,6 +168,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`8995729`](https://github.com/stdlib-js/stdlib/commit/8995729d86baba1711ca5c1305ebca1bb990f3ff) - **feat:** add `lapack/base/zlaset` [(#4789)](https://github.com/stdlib-js/stdlib/pull/4789) _(by Ricky Reusser, Athan Reines)_
 -   [`4e3292d`](https://github.com/stdlib-js/stdlib/commit/4e3292d5f4d82776caafbe046d8ee4a423faee4f) - **feat:** add `lapack/base/zlacgv` [(#4725)](https://github.com/stdlib-js/stdlib/pull/4725) _(by Ricky Reusser, Athan Reines)_
 -   [`86163ea`](https://github.com/stdlib-js/stdlib/commit/86163ea9143a5f40e58f1d5c7307eaa07a64a39c) - **feat:** add `lapack/base/zrot` [(#4772)](https://github.com/stdlib-js/stdlib/pull/4772) _(by Ricky Reusser, Athan Reines, stdlib-bot)_
 -   [`1024672`](https://github.com/stdlib-js/stdlib/commit/10246726f20f36d6322d74160e6f4d54805b02e4) - **docs:** update namespace TypeScript declaration comments [(#4729)](https://github.com/stdlib-js/stdlib/pull/4729) _(by stdlib-bot)_
