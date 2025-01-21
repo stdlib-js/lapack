@@ -37,6 +37,42 @@ var setReadOnly = require( '@stdlib/utils/define-read-only-property' );
 var ns = {};
 
 /**
+* @name clacgv
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/clacgv}
+*/
+setReadOnly( ns, 'clacgv', require( './../../base/clacgv' ) );
+
+/**
+* @name clacpy
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/clacpy}
+*/
+setReadOnly( ns, 'clacpy', require( './../../base/clacpy' ) );
+
+/**
+* @name claset
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/claset}
+*/
+setReadOnly( ns, 'claset', require( './../../base/claset' ) );
+
+/**
+* @name dgetrans
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/dge-trans}
+*/
+setReadOnly( ns, 'dgetrans', require( './../../base/dge-trans' ) );
+
+/**
 * @name dlacpy
 * @memberof ns
 * @readonly
@@ -44,6 +80,15 @@ var ns = {};
 * @see {@link module:@stdlib/lapack/base/dlacpy}
 */
 setReadOnly( ns, 'dlacpy', require( './../../base/dlacpy' ) );
+
+/**
+* @name dlamch
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/dlamch}
+*/
+setReadOnly( ns, 'dlamch', require( './../../base/dlamch' ) );
 
 /**
 * @name dlassq
@@ -73,6 +118,15 @@ setReadOnly( ns, 'dlaswp', require( './../../base/dlaswp' ) );
 setReadOnly( ns, 'dpttrf', require( './../../base/dpttrf' ) );
 
 /**
+* @name sgetrans
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/sge-trans}
+*/
+setReadOnly( ns, 'sgetrans', require( './../../base/sge-trans' ) );
+
+/**
 * @name slacpy
 * @memberof ns
 * @readonly
@@ -82,6 +136,15 @@ setReadOnly( ns, 'dpttrf', require( './../../base/dpttrf' ) );
 setReadOnly( ns, 'slacpy', require( './../../base/slacpy' ) );
 
 /**
+* @name slaswp
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/slaswp}
+*/
+setReadOnly( ns, 'slaswp', require( './../../base/slaswp' ) );
+
+/**
 * @name spttrf
 * @memberof ns
 * @readonly
@@ -89,6 +152,42 @@ setReadOnly( ns, 'slacpy', require( './../../base/slacpy' ) );
 * @see {@link module:@stdlib/lapack/base/spttrf}
 */
 setReadOnly( ns, 'spttrf', require( './../../base/spttrf' ) );
+
+/**
+* @name zlacgv
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/zlacgv}
+*/
+setReadOnly( ns, 'zlacgv', require( './../../base/zlacgv' ) );
+
+/**
+* @name zlacpy
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/zlacpy}
+*/
+setReadOnly( ns, 'zlacpy', require( './../../base/zlacpy' ) );
+
+/**
+* @name zlaset
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/zlaset}
+*/
+setReadOnly( ns, 'zlaset', require( './../../base/zlaset' ) );
+
+/**
+* @name zrot
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/zrot}
+*/
+setReadOnly( ns, 'zrot', require( './../../base/zrot' ) );
 
 
 // EXPORTS //

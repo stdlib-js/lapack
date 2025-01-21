@@ -39,6 +39,8 @@
     "@stdlib/array": "github:stdlib-js/array#main",
     "@stdlib/assert": "github:stdlib-js/assert#main",
     "@stdlib/blas": "github:stdlib-js/blas#main",
+    "@stdlib/complex": "github:stdlib-js/complex#main",
+    "@stdlib/constants": "github:stdlib-js/constants#main",
     "@stdlib/math": "github:stdlib-js/math#main",
     "@stdlib/ndarray": "github:stdlib-js/ndarray#main",
     "@stdlib/number": "github:stdlib-js/number#main",
@@ -49,9 +51,7 @@
   },
   "devDependencies": {
     "@stdlib/bench": "github:stdlib-js/bench#main",
-    "@stdlib/complex": "github:stdlib-js/complex#main",
     "@stdlib/console": "github:stdlib-js/console#main",
-    "@stdlib/constants": "github:stdlib-js/constants#main",
     "@stdlib/random": "github:stdlib-js/random#main",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
