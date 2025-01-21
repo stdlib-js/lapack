@@ -64,6 +64,15 @@ setReadOnly( ns, 'clacpy', require( './../../base/clacpy' ) );
 setReadOnly( ns, 'claset', require( './../../base/claset' ) );
 
 /**
+* @name crot
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/crot}
+*/
+setReadOnly( ns, 'crot', require( './../../base/crot' ) );
+
+/**
 * @name dgetrans
 * @memberof ns
 * @readonly

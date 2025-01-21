@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`5672a23`](https://github.com/stdlib-js/stdlib/commit/5672a237940993661dadb9023f27f08e93683ad0) - add `crot` to namespace
 -   [`a242756`](https://github.com/stdlib-js/stdlib/commit/a2427567611f02b499c66554c1c9e8a8f8a544f5) - add `claset` to namespace
 -   [`5b6f583`](https://github.com/stdlib-js/stdlib/commit/5b6f583e159597ae59fd1c5e4e9efa598748f8d1) - add `clacgv` to namespace
 -   [`7c68b0f`](https://github.com/stdlib-js/stdlib/commit/7c68b0fbbde33f65af2d235f664bf338887cfd39) - add `zrot` to namespace
@@ -110,6 +111,28 @@
 ##### Features
 
 -   [`c1fef06`](https://github.com/stdlib-js/stdlib/commit/c1fef0653287db93debf75a4475ef93b62c16b8c) - add `lapack/base/claset`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="lapack-base-crot-unreleased">
+
+#### [@stdlib/lapack/base/crot](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/crot)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`19972bb`](https://github.com/stdlib-js/stdlib/commit/19972bbd6ddf6bf8b7fbc8f61c9da84e73483da6) - add `lapack/base/crot`
 
 </section>
 
@@ -245,6 +268,12 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`9267e0f`](https://github.com/stdlib-js/stdlib/commit/9267e0f2c35f15ccb49402d319c33c2166f96a03) - **docs:** fix examples _(by Athan Reines)_
+-   [`7d6c7bf`](https://github.com/stdlib-js/stdlib/commit/7d6c7bfc92ea3ef1a4da39f835c89688f085fdf8) - **test:** remove general use of absolute tolerance _(by Athan Reines)_
+-   [`5672a23`](https://github.com/stdlib-js/stdlib/commit/5672a237940993661dadb9023f27f08e93683ad0) - **feat:** add `crot` to namespace _(by Athan Reines)_
+-   [`19972bb`](https://github.com/stdlib-js/stdlib/commit/19972bbd6ddf6bf8b7fbc8f61c9da84e73483da6) - **feat:** add `lapack/base/crot` _(by Athan Reines)_
+-   [`4906ee2`](https://github.com/stdlib-js/stdlib/commit/4906ee23b843a9f5ebd78f9633b084185a40a0d7) - **docs:** fix link _(by Athan Reines)_
+-   [`e3e0057`](https://github.com/stdlib-js/stdlib/commit/e3e00577fef54536138a13f9e599b60fe0547605) - **docs:** update description _(by Athan Reines)_
 -   [`a242756`](https://github.com/stdlib-js/stdlib/commit/a2427567611f02b499c66554c1c9e8a8f8a544f5) - **feat:** add `claset` to namespace _(by Athan Reines)_
 -   [`c1fef06`](https://github.com/stdlib-js/stdlib/commit/c1fef0653287db93debf75a4475ef93b62c16b8c) - **feat:** add `lapack/base/claset` _(by Athan Reines)_
 -   [`0ea6420`](https://github.com/stdlib-js/stdlib/commit/0ea64206c3b8854aaca5ff13c232ed4d3c2d5d56) - **test:** rename file _(by Athan Reines)_
