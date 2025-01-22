@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`8e8437c`](https://github.com/stdlib-js/stdlib/commit/8e8437c92781ac1873dc5df96daae1ef17a2ce1f) - update namespace TypeScript declarations [(#4843)](https://github.com/stdlib-js/stdlib/pull/4843)
 -   [`5672a23`](https://github.com/stdlib-js/stdlib/commit/5672a237940993661dadb9023f27f08e93683ad0) - add `crot` to namespace
 -   [`a242756`](https://github.com/stdlib-js/stdlib/commit/a2427567611f02b499c66554c1c9e8a8f8a544f5) - add `claset` to namespace
 -   [`5b6f583`](https://github.com/stdlib-js/stdlib/commit/5b6f583e159597ae59fd1c5e4e9efa598748f8d1) - add `clacgv` to namespace
@@ -41,6 +42,10 @@
 <section class="breaking-changes">
 
 ##### BREAKING CHANGES
+
+-   [`8e8437c`](https://github.com/stdlib-js/stdlib/commit/8e8437c92781ac1873dc5df96daae1ef17a2ce1f): remove `stats/base/dcumaxabs`
+
+    -   To migrate, users should access `dcumaxabs` via the `stats/strided` namespace.
 
 -   [`8b1548f`](https://github.com/stdlib-js/stdlib/commit/8b1548fb45c1ff131f5edac20cb984344a2d28ec): update namespace declarations
 
@@ -240,6 +245,10 @@
 
 ### BREAKING CHANGES
 
+-   [`8e8437c`](https://github.com/stdlib-js/stdlib/commit/8e8437c92781ac1873dc5df96daae1ef17a2ce1f): remove `stats/base/dcumaxabs`
+
+    -   To migrate, users should access `dcumaxabs` via the `stats/strided` namespace.
+
 -   [`8b1548f`](https://github.com/stdlib-js/stdlib/commit/8b1548fb45c1ff131f5edac20cb984344a2d28ec): update namespace declarations
 
     -   To migrate, users should consult the corresponding packages containing the respective implementations to determine what is breaking. The primary breakages come from the `blas/*` namespace, where we recently refactored how top-level BLAS APIs operate on input arguments.
@@ -268,6 +277,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`8e8437c`](https://github.com/stdlib-js/stdlib/commit/8e8437c92781ac1873dc5df96daae1ef17a2ce1f) - **feat:** update namespace TypeScript declarations [(#4843)](https://github.com/stdlib-js/stdlib/pull/4843) _(by stdlib-bot)_
 -   [`063163f`](https://github.com/stdlib-js/stdlib/commit/063163f04276c85b781b5e58e0e8853ac3b36f0c) - **docs:** update namespace table of contents [(#4845)](https://github.com/stdlib-js/stdlib/pull/4845) _(by stdlib-bot)_
 -   [`9267e0f`](https://github.com/stdlib-js/stdlib/commit/9267e0f2c35f15ccb49402d319c33c2166f96a03) - **docs:** fix examples _(by Athan Reines)_
 -   [`7d6c7bf`](https://github.com/stdlib-js/stdlib/commit/7d6c7bfc92ea3ef1a4da39f835c89688f085fdf8) - **test:** remove general use of absolute tolerance _(by Athan Reines)_
