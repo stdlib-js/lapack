@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-21)
+## Unreleased (2025-01-22)
 
 <section class="packages">
 
@@ -268,6 +268,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`063163f`](https://github.com/stdlib-js/stdlib/commit/063163f04276c85b781b5e58e0e8853ac3b36f0c) - **docs:** update namespace table of contents [(#4845)](https://github.com/stdlib-js/stdlib/pull/4845) _(by stdlib-bot)_
 -   [`9267e0f`](https://github.com/stdlib-js/stdlib/commit/9267e0f2c35f15ccb49402d319c33c2166f96a03) - **docs:** fix examples _(by Athan Reines)_
 -   [`7d6c7bf`](https://github.com/stdlib-js/stdlib/commit/7d6c7bfc92ea3ef1a4da39f835c89688f085fdf8) - **test:** remove general use of absolute tolerance _(by Athan Reines)_
 -   [`5672a23`](https://github.com/stdlib-js/stdlib/commit/5672a237940993661dadb9023f27f08e93683ad0) - **feat:** add `crot` to namespace _(by Athan Reines)_
