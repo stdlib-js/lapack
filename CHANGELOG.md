@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-22)
+## Unreleased (2025-02-04)
 
 <section class="packages">
 
@@ -277,6 +277,8 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`e5782a6`](https://github.com/stdlib-js/stdlib/commit/e5782a67226e46dbef397279304e4a579c681f3f) - **docs:** fix missing semicolon _(by Athan Reines)_
+-   [`6520c92`](https://github.com/stdlib-js/stdlib/commit/6520c92cd3c0204571844bd070a5236aaafad822) - **docs:** fix require paths _(by Athan Reines)_
 -   [`8e8437c`](https://github.com/stdlib-js/stdlib/commit/8e8437c92781ac1873dc5df96daae1ef17a2ce1f) - **feat:** update namespace TypeScript declarations [(#4843)](https://github.com/stdlib-js/stdlib/pull/4843) _(by stdlib-bot)_
 -   [`063163f`](https://github.com/stdlib-js/stdlib/commit/063163f04276c85b781b5e58e0e8853ac3b36f0c) - **docs:** update namespace table of contents [(#4845)](https://github.com/stdlib-js/stdlib/pull/4845) _(by stdlib-bot)_
 -   [`9267e0f`](https://github.com/stdlib-js/stdlib/commit/9267e0f2c35f15ccb49402d319c33c2166f96a03) - **docs:** fix examples _(by Athan Reines)_
