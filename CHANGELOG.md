@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-04)
+## Unreleased (2025-02-28)
 
 <section class="packages">
 
@@ -285,10 +285,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Athan Reines
--   MohammadBinAftab
+-   Mohammad Bin Aftab
 -   Philipp Burckhardt
 -   Ricky Reusser
 
@@ -302,7 +303,8 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
--   [`28597c6`](https://github.com/stdlib-js/stdlib/commit/28597c67e5bf9e6646b608edd04fd808c567d652) - **docs:** fix require paths and add missing semicolon [(#5055)](https://github.com/stdlib-js/stdlib/pull/5055) _(by MohammadBinAftab)_
+-   [`a62261a`](https://github.com/stdlib-js/stdlib/commit/a62261a346f429f3cf49a0a295cfaaea5a4912ee) - **docs:** fix variable name in example [(#5524)](https://github.com/stdlib-js/stdlib/pull/5524) _(by Aayush Khanna)_
+-   [`28597c6`](https://github.com/stdlib-js/stdlib/commit/28597c67e5bf9e6646b608edd04fd808c567d652) - **docs:** fix require paths and add missing semicolon [(#5055)](https://github.com/stdlib-js/stdlib/pull/5055) _(by Mohammad Bin Aftab)_
 -   [`e5782a6`](https://github.com/stdlib-js/stdlib/commit/e5782a67226e46dbef397279304e4a579c681f3f) - **docs:** fix missing semicolon _(by Athan Reines)_
 -   [`6520c92`](https://github.com/stdlib-js/stdlib/commit/6520c92cd3c0204571844bd070a5236aaafad822) - **docs:** fix require paths _(by Athan Reines)_
 -   [`8e8437c`](https://github.com/stdlib-js/stdlib/commit/8e8437c92781ac1873dc5df96daae1ef17a2ce1f) - **feat:** update namespace TypeScript declarations [(#4843)](https://github.com/stdlib-js/stdlib/pull/4843) _(by stdlib-bot)_
