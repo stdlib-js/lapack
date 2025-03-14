@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-10)
+## Unreleased (2025-03-14)
 
 <section class="packages">
 
@@ -303,6 +303,8 @@ A total of 5 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`126b65d`](https://github.com/stdlib-js/stdlib/commit/126b65dcb129e68acc343fc1d8a2e994334e10c9) - **bench:** fix assertions _(by Athan Reines)_
+-   [`5bd0a2b`](https://github.com/stdlib-js/stdlib/commit/5bd0a2b8164e428ec69067e749e061b7e2fd1ecc) - **bench:** fix assertions _(by Athan Reines)_
 -   [`a62261a`](https://github.com/stdlib-js/stdlib/commit/a62261a346f429f3cf49a0a295cfaaea5a4912ee) - **docs:** fix variable name in example [(#5524)](https://github.com/stdlib-js/stdlib/pull/5524) _(by Aayush Khanna)_
 -   [`28597c6`](https://github.com/stdlib-js/stdlib/commit/28597c67e5bf9e6646b608edd04fd808c567d652) - **docs:** fix require paths and add missing semicolon [(#5055)](https://github.com/stdlib-js/stdlib/pull/5055) _(by Mohammad Bin Aftab)_
 -   [`e5782a6`](https://github.com/stdlib-js/stdlib/commit/e5782a67226e46dbef397279304e4a579c681f3f) - **docs:** fix missing semicolon _(by Athan Reines)_
