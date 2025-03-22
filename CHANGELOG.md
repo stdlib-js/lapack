@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-14)
+## Unreleased (2025-03-22)
 
 <section class="packages">
 
@@ -161,6 +161,30 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="lapack-base-dge-trans-unreleased">
+
+#### [@stdlib/lapack/base/dge-trans](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/dge-trans)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#6270](https://github.com/stdlib-js/stdlib/issues/6270)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="lapack-base-zlacgv-unreleased">
 
 #### [@stdlib/lapack/base/zlacgv](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/lapack/base/zlacgv)
@@ -273,9 +297,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#5052](https://github.com/stdlib-js/stdlib/issues/5052)
+[#5052](https://github.com/stdlib-js/stdlib/issues/5052), [#6270](https://github.com/stdlib-js/stdlib/issues/6270)
 
 </section>
 
@@ -285,8 +309,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
+-   Aarya Balwadkar
 -   Aayush Khanna
 -   Athan Reines
 -   Mohammad Bin Aftab
@@ -303,6 +328,7 @@ A total of 5 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`b1e106f`](https://github.com/stdlib-js/stdlib/commit/b1e106f1aff2467f9664914b994c6729c5ac60e7) - **chore:** fix EditorConfig lint errors [(#6278)](https://github.com/stdlib-js/stdlib/pull/6278) _(by Aarya Balwadkar, Athan Reines)_
 -   [`126b65d`](https://github.com/stdlib-js/stdlib/commit/126b65dcb129e68acc343fc1d8a2e994334e10c9) - **bench:** fix assertions _(by Athan Reines)_
 -   [`5bd0a2b`](https://github.com/stdlib-js/stdlib/commit/5bd0a2b8164e428ec69067e749e061b7e2fd1ecc) - **bench:** fix assertions _(by Athan Reines)_
 -   [`a62261a`](https://github.com/stdlib-js/stdlib/commit/a62261a346f429f3cf49a0a295cfaaea5a4912ee) - **docs:** fix variable name in example [(#5524)](https://github.com/stdlib-js/stdlib/pull/5524) _(by Aayush Khanna)_
