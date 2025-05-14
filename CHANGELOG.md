@@ -74,6 +74,7 @@ A total of 2 issues were closed in this release:
 <details>
 
 -   [`41f4b7a`](https://github.com/stdlib-js/stdlib/commit/41f4b7adff17197d04cc261c774bfb6601cc6e2c) - **feat:** add `lapack/base/claswp` [(#5525)](https://github.com/stdlib-js/stdlib/pull/5525) _(by Aayush Khanna, Athan Reines, stdlib-bot)_
+-   [`9ab33f7`](https://github.com/stdlib-js/stdlib/commit/9ab33f74cb00123d6b48bc8b2a9f88ec559b82aa) - **docs:** update copy _(by Athan Reines)_
 -   [`12615c0`](https://github.com/stdlib-js/stdlib/commit/12615c0be9064895e7a5838faba15cc871880094) - **refactor:** use base assertion utility _(by Athan Reines)_
 -   [`26695c2`](https://github.com/stdlib-js/stdlib/commit/26695c2f08c0c9c6ddd1328c59cb114a046d9adf) - **refactor:** use base assertion utility _(by Athan Reines)_
 -   [`d4d6c43`](https://github.com/stdlib-js/stdlib/commit/d4d6c43c17c7f6f732970e77af84a7c15458d3ea) - **refactor:** use base assertion utility _(by Athan Reines)_
