@@ -1,7 +1,7 @@
 /**
 * @license Apache-2.0
 *
-* Copyright (c) 2024 The Stdlib Authors.
+* Copyright (c) 2025 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -35,7 +35,7 @@ var base = require( './base.js' );
 *
 * @param {string} order - storage layout
 * @param {PositiveInteger} N - number of columns in `A`
-* @param {Float32Array} A - input matrix
+* @param {Complex64Array} A - input matrix
 * @param {PositiveInteger} LDA - stride of the first dimension of `A` (a.k.a., leading dimension of the matrix `A`)
 * @param {NonNegativeInteger} k1 - index of first row to interchange
 * @param {NonNegativeInteger} k2 - index of last row to interchange
@@ -43,19 +43,19 @@ var base = require( './base.js' );
 * @param {integer} incx - increment between successive values of `IPIV`
 * @throws {TypeError} first argument must be a valid order
 * @throws {RangeError} fourth argument must be greater than or equal to max(1,N)
-* @returns {Float32Array} permuted matrix `A`
+* @returns {Complex64Array} permuted matrix `A`
 *
 * @example
 * var Int32Array = require( '@stdlib/array/int32' );
-* var Float32Array = require( '@stdlib/array/float32' );
+* var Complex64Array = require( '@stdlib/array/complex64' );
 *
 * var IPIV = new Int32Array( [ 2, 0, 1 ] );
-* var A = new Float32Array( [ 1.0, 2.0, 3.0, 4.0, 5.0, 6.0 ] ); // => [ [ 1.0, 2.0 ], [ 3.0, 4.0 ], [ 5.0, 6.0 ] ]
+* var A = new Complex64Array( [ 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0, 11.0, 12.0 ] );
 *
-* slaswp( 'row-major', 2, A, 2, 0, 2, IPIV, 1 );
-* // A => <Float32Array>[ 3.0, 4.0, 1.0, 2.0, 5.0, 6.0 ]
+* claswp( 'row-major', 2, A, 2, 0, 2, IPIV, 1 );
+* // A => <Complex64Array>[ 5.0, 6.0, 7.0, 8.0, 1.0, 2.0, 3.0, 4.0, 9.0, 10.0, 11.0, 12.0 ]
 */
-function slaswp( order, N, A, LDA, k1, k2, IPIV, incx ) {
+function claswp( order, N, A, LDA, k1, k2, IPIV, incx ) {
 	var tmp;
 	var inc;
 	var sa1;
@@ -92,4 +92,4 @@ function slaswp( order, N, A, LDA, k1, k2, IPIV, incx ) {
 
 // EXPORTS //
 
-module.exports = slaswp;
+module.exports = claswp;

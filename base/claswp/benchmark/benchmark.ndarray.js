@@ -22,14 +22,14 @@
 
 var bench = require( '@stdlib/bench' );
 var uniform = require( '@stdlib/random/array/uniform' );
-var Complex128Array = require( '@stdlib/array/complex128' );
+var Complex64Array = require( '@stdlib/array/complex64' );
 var discreteUniform = require( '@stdlib/random/array/discrete-uniform' );
 var isColumnMajor = require( '@stdlib/ndarray/base/assert/is-column-major-string' );
-var isnan = require( '@stdlib/math/base/assert/is-nan' );
+var isnanf = require( '@stdlib/math/base/assert/is-nanf' );
 var pow = require( '@stdlib/math/base/special/pow' );
 var floor = require( '@stdlib/math/base/special/floor' );
 var pkg = require( './../package.json' ).name;
-var zlaswp = require( './../lib/ndarray.js' );
+var claswp = require( './../lib/ndarray.js' );
 
 
 // VARIABLES //
@@ -39,7 +39,7 @@ var LAYOUTS = [
 	'column-major'
 ];
 var opts = {
-	'dtype': 'float64'
+	'dtype': 'float32'
 };
 
 
@@ -73,7 +73,7 @@ function createBenchmark( order, N, nrows ) {
 	});
 
 	abuf = uniform( 2*N*N, -10.0, 10.0, opts );
-	A = new Complex128Array( abuf );
+	A = new Complex64Array( abuf );
 
 	return benchmark;
 
@@ -88,13 +88,13 @@ function createBenchmark( order, N, nrows ) {
 
 		b.tic();
 		for ( i = 0; i < b.iterations; i++ ) {
-			zlaswp( N, A, sa1, sa2, 0, 0, nrows-1, 1, IPIV, 1, 0 );
-			if ( isnan( abuf[ i%abuf.length ] ) ) {
+			claswp( N, A, sa1, sa2, 0, 0, nrows-1, 1, IPIV, 1, 0 );
+			if ( isnanf( abuf[ i%abuf.length ] ) ) {
 				b.fail( 'should not return NaN' );
 			}
 		}
 		b.toc();
-		if ( isnan( abuf[ i%abuf.length ] ) ) {
+		if ( isnanf( abuf[ i%abuf.length ] ) ) {
 			b.fail( 'should not return NaN' );
 		}
 		b.pass( 'benchmark finished' );

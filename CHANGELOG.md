@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-30)
+## Unreleased (2025-05-14)
 
 <section class="features">
 
 ### Features
 
+-   [`41f4b7a`](https://github.com/stdlib-js/stdlib/commit/41f4b7adff17197d04cc261c774bfb6601cc6e2c) - add `lapack/base/claswp` [(#5525)](https://github.com/stdlib-js/stdlib/pull/5525)
 -   [`e7f973d`](https://github.com/stdlib-js/stdlib/commit/e7f973d92279cc05d82c9d330fc2398a80971253) - add `lapack/base/zlaswp` [(#5496)](https://github.com/stdlib-js/stdlib/pull/5496)
 -   [`8e8437c`](https://github.com/stdlib-js/stdlib/commit/8e8437c92781ac1873dc5df96daae1ef17a2ce1f) - update namespace TypeScript declarations [(#4843)](https://github.com/stdlib-js/stdlib/pull/4843)
 -   [`5672a23`](https://github.com/stdlib-js/stdlib/commit/5672a237940993661dadb9023f27f08e93683ad0) - add `crot` to namespace
@@ -72,6 +73,18 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`41f4b7a`](https://github.com/stdlib-js/stdlib/commit/41f4b7adff17197d04cc261c774bfb6601cc6e2c) - **feat:** add `lapack/base/claswp` [(#5525)](https://github.com/stdlib-js/stdlib/pull/5525) _(by Aayush Khanna, Athan Reines, stdlib-bot)_
+-   [`12615c0`](https://github.com/stdlib-js/stdlib/commit/12615c0be9064895e7a5838faba15cc871880094) - **refactor:** use base assertion utility _(by Athan Reines)_
+-   [`26695c2`](https://github.com/stdlib-js/stdlib/commit/26695c2f08c0c9c6ddd1328c59cb114a046d9adf) - **refactor:** use base assertion utility _(by Athan Reines)_
+-   [`d4d6c43`](https://github.com/stdlib-js/stdlib/commit/d4d6c43c17c7f6f732970e77af84a7c15458d3ea) - **refactor:** use base assertion utility _(by Athan Reines)_
+-   [`6ee5d86`](https://github.com/stdlib-js/stdlib/commit/6ee5d86e28d4bb75b512759bbbfef694fbbf43f5) - **refactor:** use base assertion utility _(by Athan Reines)_
+-   [`f924a93`](https://github.com/stdlib-js/stdlib/commit/f924a93e442b00ae98f7aa3748ff3542a19f6e25) - **refactor:** use base assertion utility _(by Athan Reines)_
+-   [`9a5137a`](https://github.com/stdlib-js/stdlib/commit/9a5137ae37881804a20e1d0151022f56294bf466) - **refactor:** use base assertion utility _(by Athan Reines)_
+-   [`41a3836`](https://github.com/stdlib-js/stdlib/commit/41a383613580ba43656bad45f30e1b06aa0d14b9) - **refactor:** use base assertion utility _(by Athan Reines)_
+-   [`5fa268b`](https://github.com/stdlib-js/stdlib/commit/5fa268b45966db0bf625010a1e5cbda152fbf648) - **refactor:** use base assertion utility _(by Athan Reines)_
+-   [`9b301e1`](https://github.com/stdlib-js/stdlib/commit/9b301e1bac9da9445ca8be7a0c56f2af860441eb) - **refactor:** use base assertion utility _(by Athan Reines)_
+-   [`41a5543`](https://github.com/stdlib-js/stdlib/commit/41a5543536123a35ef319fcba4abd41fe988b366) - **refactor:** use base assertion utility _(by Athan Reines)_
+-   [`969a0c6`](https://github.com/stdlib-js/stdlib/commit/969a0c6cc04e7c76078978c6cccf4353cc22565b) - **refactor:** use base assertion utility _(by Athan Reines)_
 -   [`4b5f02d`](https://github.com/stdlib-js/stdlib/commit/4b5f02ddb3812966ea80d980d109c0c1057dea8a) - **docs:** update Markdown stdlib package URLs [(#6874)](https://github.com/stdlib-js/stdlib/pull/6874) _(by stdlib-bot)_
 -   [`e7f973d`](https://github.com/stdlib-js/stdlib/commit/e7f973d92279cc05d82c9d330fc2398a80971253) - **feat:** add `lapack/base/zlaswp` [(#5496)](https://github.com/stdlib-js/stdlib/pull/5496) _(by Aayush Khanna, Athan Reines, stdlib-bot)_
 -   [`b1e106f`](https://github.com/stdlib-js/stdlib/commit/b1e106f1aff2467f9664914b994c6729c5ac60e7) - **chore:** fix EditorConfig lint errors [(#6278)](https://github.com/stdlib-js/stdlib/pull/6278) _(by Aarya Balwadkar, Athan Reines)_
