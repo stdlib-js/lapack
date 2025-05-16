@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-14)
+## Unreleased (2025-05-16)
 
 <section class="features">
 
@@ -73,6 +73,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`0ab37c0`](https://github.com/stdlib-js/stdlib/commit/0ab37c04acddba037684976cebbfc1b8cb3236cf) - **docs:** update Markdown stdlib package URLs [(#7005)](https://github.com/stdlib-js/stdlib/pull/7005) _(by stdlib-bot)_
 -   [`41f4b7a`](https://github.com/stdlib-js/stdlib/commit/41f4b7adff17197d04cc261c774bfb6601cc6e2c) - **feat:** add `lapack/base/claswp` [(#5525)](https://github.com/stdlib-js/stdlib/pull/5525) _(by Aayush Khanna, Athan Reines, stdlib-bot)_
 -   [`9ab33f7`](https://github.com/stdlib-js/stdlib/commit/9ab33f74cb00123d6b48bc8b2a9f88ec559b82aa) - **docs:** update copy _(by Athan Reines)_
 -   [`12615c0`](https://github.com/stdlib-js/stdlib/commit/12615c0be9064895e7a5838faba15cc871880094) - **refactor:** use base assertion utility _(by Athan Reines)_
