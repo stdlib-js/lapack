@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`fa8250e`](https://github.com/stdlib-js/stdlib/commit/fa8250e71f95a3a9c5be81affa3d7bd634370cd5) - add `lapack/base/dlapy3` [(#7144)](https://github.com/stdlib-js/stdlib/pull/7144)
 -   [`962d072`](https://github.com/stdlib-js/stdlib/commit/962d0727294945bd6570dbe2d7e39625f9469d3a) - add `lapack/base/dlapy2` [(#7120)](https://github.com/stdlib-js/stdlib/pull/7120)
 -   [`54b8104`](https://github.com/stdlib-js/stdlib/commit/54b810456e845ffc01712d66cc773a1613884767) - add `lapack/base/dgttrf` [(#5754)](https://github.com/stdlib-js/stdlib/pull/5754)
 -   [`41f4b7a`](https://github.com/stdlib-js/stdlib/commit/41f4b7adff17197d04cc261c774bfb6601cc6e2c) - add `lapack/base/claswp` [(#5525)](https://github.com/stdlib-js/stdlib/pull/5525)
@@ -75,6 +76,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`fa8250e`](https://github.com/stdlib-js/stdlib/commit/fa8250e71f95a3a9c5be81affa3d7bd634370cd5) - **feat:** add `lapack/base/dlapy3` [(#7144)](https://github.com/stdlib-js/stdlib/pull/7144) _(by Aayush Khanna, Athan Reines)_
 -   [`962d072`](https://github.com/stdlib-js/stdlib/commit/962d0727294945bd6570dbe2d7e39625f9469d3a) - **feat:** add `lapack/base/dlapy2` [(#7120)](https://github.com/stdlib-js/stdlib/pull/7120) _(by Aayush Khanna, Athan Reines)_
 -   [`54b8104`](https://github.com/stdlib-js/stdlib/commit/54b810456e845ffc01712d66cc773a1613884767) - **feat:** add `lapack/base/dgttrf` [(#5754)](https://github.com/stdlib-js/stdlib/pull/5754) _(by Aayush Khanna, Athan Reines, stdlib-bot)_
 -   [`0ab37c0`](https://github.com/stdlib-js/stdlib/commit/0ab37c04acddba037684976cebbfc1b8cb3236cf) - **docs:** update Markdown stdlib package URLs [(#7005)](https://github.com/stdlib-js/stdlib/pull/7005) _(by stdlib-bot)_
