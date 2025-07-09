@@ -79,6 +79,8 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`defed16`](https://github.com/stdlib-js/stdlib/commit/defed163077b2e81d04aecb77ad15d14f71b2207) - **chore:** minor clean-up _(by Philipp Burckhardt)_
+-   [`c8bf1de`](https://github.com/stdlib-js/stdlib/commit/c8bf1de9e8487400542c53b1f435b607976043b8) - **docs:** fix parameter description _(by Philipp Burckhardt)_
 -   [`01d9619`](https://github.com/stdlib-js/stdlib/commit/01d9619612325b9d7a3429a4aa714929762e7beb) - **feat:** add `lapack/base/dlaset` [(#7467)](https://github.com/stdlib-js/stdlib/pull/7467) _(by Aayush Khanna, Athan Reines)_
 -   [`e81850c`](https://github.com/stdlib-js/stdlib/commit/e81850c22c77fcaf13fba4e78f93f14088232ae7) - **chore:** minor cleanup in `lapack/base/dgttrf` [(#7383)](https://github.com/stdlib-js/stdlib/pull/7383) _(by Aayush Khanna)_
 -   [`58679fa`](https://github.com/stdlib-js/stdlib/commit/58679fa33df1b41d2e4f043a2dce327233c59efa) - **chore:** fix editorconfig lint errors [(#7348)](https://github.com/stdlib-js/stdlib/pull/7348) _(by Deepak Singh, Athan Reines)_
