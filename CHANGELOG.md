@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-18)
+## Unreleased (2025-07-09)
 
 <section class="features">
 
 ### Features
 
+-   [`01d9619`](https://github.com/stdlib-js/stdlib/commit/01d9619612325b9d7a3429a4aa714929762e7beb) - add `lapack/base/dlaset` [(#7467)](https://github.com/stdlib-js/stdlib/pull/7467)
 -   [`86ac66b`](https://github.com/stdlib-js/stdlib/commit/86ac66b74c8df1c04407cb4160051621e8ce3da8) - add `lapack/base/iladlc` [(#7083)](https://github.com/stdlib-js/stdlib/pull/7083)
 -   [`f3c3d72`](https://github.com/stdlib-js/stdlib/commit/f3c3d72625ae483437a06f9e5f2da38354aa7ef1) - add `lapack/base/iladlr` [(#7076)](https://github.com/stdlib-js/stdlib/pull/7076)
 -   [`fa8250e`](https://github.com/stdlib-js/stdlib/commit/fa8250e71f95a3a9c5be81affa3d7bd634370cd5) - add `lapack/base/dlapy3` [(#7144)](https://github.com/stdlib-js/stdlib/pull/7144)
@@ -78,6 +79,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`01d9619`](https://github.com/stdlib-js/stdlib/commit/01d9619612325b9d7a3429a4aa714929762e7beb) - **feat:** add `lapack/base/dlaset` [(#7467)](https://github.com/stdlib-js/stdlib/pull/7467) _(by Aayush Khanna, Athan Reines)_
 -   [`e81850c`](https://github.com/stdlib-js/stdlib/commit/e81850c22c77fcaf13fba4e78f93f14088232ae7) - **chore:** minor cleanup in `lapack/base/dgttrf` [(#7383)](https://github.com/stdlib-js/stdlib/pull/7383) _(by Aayush Khanna)_
 -   [`58679fa`](https://github.com/stdlib-js/stdlib/commit/58679fa33df1b41d2e4f043a2dce327233c59efa) - **chore:** fix editorconfig lint errors [(#7348)](https://github.com/stdlib-js/stdlib/pull/7348) _(by Deepak Singh, Athan Reines)_
 -   [`86ac66b`](https://github.com/stdlib-js/stdlib/commit/86ac66b74c8df1c04407cb4160051621e8ce3da8) - **feat:** add `lapack/base/iladlc` [(#7083)](https://github.com/stdlib-js/stdlib/pull/7083) _(by Aayush Khanna, Athan Reines, stdlib-bot)_
