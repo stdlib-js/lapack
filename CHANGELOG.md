@@ -4,12 +4,16 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-09)
+## Unreleased (2025-07-15)
 
 <section class="features">
 
 ### Features
 
+-   [`59f3ca9`](https://github.com/stdlib-js/stdlib/commit/59f3ca930abd58ce6d8ce9d74f0389b7d7f0e847) - add C implementation
+-   [`b798293`](https://github.com/stdlib-js/stdlib/commit/b798293de89c22ced40a44a8bd751736ab2035c5) - add initial `lapack/base/xerbla`
+-   [`9f5cf9c`](https://github.com/stdlib-js/stdlib/commit/9f5cf9c9fa0c7f9d9c967d510d89c15781c66b34) - add error codes
+-   [`25ef497`](https://github.com/stdlib-js/stdlib/commit/25ef49759c944e033f329795fe9ada2a5e296e5b) - add `lapack/base/shared`
 -   [`01d9619`](https://github.com/stdlib-js/stdlib/commit/01d9619612325b9d7a3429a4aa714929762e7beb) - add `lapack/base/dlaset` [(#7467)](https://github.com/stdlib-js/stdlib/pull/7467)
 -   [`86ac66b`](https://github.com/stdlib-js/stdlib/commit/86ac66b74c8df1c04407cb4160051621e8ce3da8) - add `lapack/base/iladlc` [(#7083)](https://github.com/stdlib-js/stdlib/pull/7083)
 -   [`f3c3d72`](https://github.com/stdlib-js/stdlib/commit/f3c3d72625ae483437a06f9e5f2da38354aa7ef1) - add `lapack/base/iladlr` [(#7076)](https://github.com/stdlib-js/stdlib/pull/7076)
@@ -45,6 +49,16 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`f51b061`](https://github.com/stdlib-js/stdlib/commit/f51b061fd0ed716d4c7ea79a49b838234dc55bef) - rename symbol to avoid conflict
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="breaking-changes">
 
 ### BREAKING CHANGES
@@ -79,6 +93,14 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`ce87025`](https://github.com/stdlib-js/stdlib/commit/ce870250efa946b8b1aa693853d6ea6b21c7ff0f) - **docs:** fix package name _(by Athan Reines)_
+-   [`59f3ca9`](https://github.com/stdlib-js/stdlib/commit/59f3ca930abd58ce6d8ce9d74f0389b7d7f0e847) - **feat:** add C implementation _(by Athan Reines)_
+-   [`c18ed00`](https://github.com/stdlib-js/stdlib/commit/c18ed008ac70f2ad1522ce5ddfd11620ca872995) - **build:** fix configurations _(by Athan Reines)_
+-   [`26dc3a2`](https://github.com/stdlib-js/stdlib/commit/26dc3a22951b5f9206b7bcebc35229732f5f0b2b) - **docs:** update docs and fix signature _(by Athan Reines)_
+-   [`b798293`](https://github.com/stdlib-js/stdlib/commit/b798293de89c22ced40a44a8bd751736ab2035c5) - **feat:** add initial `lapack/base/xerbla` _(by Athan Reines)_
+-   [`9f5cf9c`](https://github.com/stdlib-js/stdlib/commit/9f5cf9c9fa0c7f9d9c967d510d89c15781c66b34) - **feat:** add error codes _(by Athan Reines)_
+-   [`f51b061`](https://github.com/stdlib-js/stdlib/commit/f51b061fd0ed716d4c7ea79a49b838234dc55bef) - **fix:** rename symbol to avoid conflict _(by Athan Reines)_
+-   [`25ef497`](https://github.com/stdlib-js/stdlib/commit/25ef49759c944e033f329795fe9ada2a5e296e5b) - **feat:** add `lapack/base/shared` _(by Athan Reines)_
 -   [`defed16`](https://github.com/stdlib-js/stdlib/commit/defed163077b2e81d04aecb77ad15d14f71b2207) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`c8bf1de`](https://github.com/stdlib-js/stdlib/commit/c8bf1de9e8487400542c53b1f435b607976043b8) - **docs:** fix parameter description _(by Philipp Burckhardt)_
 -   [`01d9619`](https://github.com/stdlib-js/stdlib/commit/01d9619612325b9d7a3429a4aa714929762e7beb) - **feat:** add `lapack/base/dlaset` [(#7467)](https://github.com/stdlib-js/stdlib/pull/7467) _(by Aayush Khanna, Athan Reines)_

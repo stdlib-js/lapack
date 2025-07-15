@@ -1,7 +1,7 @@
 {
-  "name": "@stdlib/lapack/base/dlacpy",
+  "name": "@stdlib/lapack/base/xerbla",
   "version": "0.0.0",
-  "description": "Copy all or part of a matrix A to another matrix B.",
+  "description": "Error handler for LAPACK routines.",
   "license": "Apache-2.0",
   "author": {
     "name": "The Stdlib Authors",
@@ -17,7 +17,6 @@
   "browser": "./lib/main.js",
   "gypfile": true,
   "directories": {
-    "benchmark": "./benchmark",
     "doc": "./docs",
     "example": "./examples",
     "include": "./include",
@@ -58,16 +57,14 @@
     "mathematics",
     "math",
     "lapack",
-    "dlacpy",
-    "copy",
     "linear",
     "algebra",
     "subroutines",
-    "array",
-    "ndarray",
-    "matrix",
-    "float64",
-    "double",
-    "float64array"
-  ]
+    "error",
+    "handler",
+    "exception"
+  ],
+  "__stdlib__": {
+    "wasm": false
+  }
 }

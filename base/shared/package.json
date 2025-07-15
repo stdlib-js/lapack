@@ -1,7 +1,7 @@
 {
-  "name": "@stdlib/lapack/base/dlacpy",
+  "name": "@stdlib/lapack/base/shared",
   "version": "0.0.0",
-  "description": "Copy all or part of a matrix A to another matrix B.",
+  "description": "Common symbols and type definitions shared across base LAPACK APIs.",
   "license": "Apache-2.0",
   "author": {
     "name": "The Stdlib Authors",
@@ -14,10 +14,7 @@
     }
   ],
   "main": "./lib",
-  "browser": "./lib/main.js",
-  "gypfile": true,
   "directories": {
-    "benchmark": "./benchmark",
     "doc": "./docs",
     "example": "./examples",
     "include": "./include",
@@ -54,20 +51,17 @@
   ],
   "keywords": [
     "stdlib",
-    "stdmath",
-    "mathematics",
-    "math",
+    "standard",
+    "library",
+    "std",
+    "lib",
+    "base",
     "lapack",
-    "dlacpy",
-    "copy",
-    "linear",
-    "algebra",
-    "subroutines",
-    "array",
-    "ndarray",
-    "matrix",
-    "float64",
-    "double",
-    "float64array"
-  ]
+    "c",
+    "shared",
+    "common"
+  ],
+  "__stdlib__": {
+    "wasm": false
+  }
 }
