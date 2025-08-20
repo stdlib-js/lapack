@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-15)
+## Unreleased (2025-08-20)
 
 <section class="features">
 
 ### Features
 
+-   [`fb9d401`](https://github.com/stdlib-js/stdlib/commit/fb9d4016b7ae28a2f2a68188eace05bbb9be44ff) - add missing functions to namespace
 -   [`59f3ca9`](https://github.com/stdlib-js/stdlib/commit/59f3ca930abd58ce6d8ce9d74f0389b7d7f0e847) - add C implementation
 -   [`b798293`](https://github.com/stdlib-js/stdlib/commit/b798293de89c22ced40a44a8bd751736ab2035c5) - add initial `lapack/base/xerbla`
 -   [`9f5cf9c`](https://github.com/stdlib-js/stdlib/commit/9f5cf9c9fa0c7f9d9c967d510d89c15781c66b34) - add error codes
@@ -53,6 +54,7 @@
 
 ### Bug Fixes
 
+-   [`933ae5e`](https://github.com/stdlib-js/stdlib/commit/933ae5eaa70b01019a3b8880d2666dddbd129298) - remove xerbla from namespaces
 -   [`f51b061`](https://github.com/stdlib-js/stdlib/commit/f51b061fd0ed716d4c7ea79a49b838234dc55bef) - rename symbol to avoid conflict
 
 </section>
@@ -93,6 +95,11 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`933ae5e`](https://github.com/stdlib-js/stdlib/commit/933ae5eaa70b01019a3b8880d2666dddbd129298) - **fix:** remove xerbla from namespaces _(by Philipp Burckhardt)_
+-   [`5a704e5`](https://github.com/stdlib-js/stdlib/commit/5a704e58579ef5c9ac7599e77c48d8ee07a2fdb5) - **docs:** fix requires in example code _(by Philipp Burckhardt)_
+-   [`cedc9bb`](https://github.com/stdlib-js/stdlib/commit/cedc9bb0f92c950200128079cac8ab1da99ec7ed) - **docs:** fix example code _(by Philipp Burckhardt)_
+-   [`fb9d401`](https://github.com/stdlib-js/stdlib/commit/fb9d4016b7ae28a2f2a68188eace05bbb9be44ff) - **feat:** add missing functions to namespace _(by Philipp Burckhardt)_
+-   [`f344466`](https://github.com/stdlib-js/stdlib/commit/f344466c6dcfb8f52d7f3148acaadd52772938da) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`ce87025`](https://github.com/stdlib-js/stdlib/commit/ce870250efa946b8b1aa693853d6ea6b21c7ff0f) - **docs:** fix package name _(by Athan Reines)_
 -   [`59f3ca9`](https://github.com/stdlib-js/stdlib/commit/59f3ca930abd58ce6d8ce9d74f0389b7d7f0e847) - **feat:** add C implementation _(by Athan Reines)_
 -   [`c18ed00`](https://github.com/stdlib-js/stdlib/commit/c18ed008ac70f2ad1522ce5ddfd11620ca872995) - **build:** fix configurations _(by Athan Reines)_
