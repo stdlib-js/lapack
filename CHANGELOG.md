@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-23)
+## Unreleased (2025-08-29)
 
 <section class="features">
 
 ### Features
 
+-   [`126ff36`](https://github.com/stdlib-js/stdlib/commit/126ff36b5fd11cbf87771a6a82cd942412cec0cb) - add `lapack/base/dlarf1f` [(#7540)](https://github.com/stdlib-js/stdlib/pull/7540)
 -   [`adef3c5`](https://github.com/stdlib-js/stdlib/commit/adef3c5d87679c2b0b50fb8bee3bb91abc1be64a) - add `lapack/base/dladiv` [(#7916)](https://github.com/stdlib-js/stdlib/pull/7916)
 -   [`fb9d401`](https://github.com/stdlib-js/stdlib/commit/fb9d4016b7ae28a2f2a68188eace05bbb9be44ff) - add missing functions to namespace
 -   [`59f3ca9`](https://github.com/stdlib-js/stdlib/commit/59f3ca930abd58ce6d8ce9d74f0389b7d7f0e847) - add C implementation
@@ -96,6 +97,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`126ff36`](https://github.com/stdlib-js/stdlib/commit/126ff36b5fd11cbf87771a6a82cd942412cec0cb) - **feat:** add `lapack/base/dlarf1f` [(#7540)](https://github.com/stdlib-js/stdlib/pull/7540) _(by Aayush Khanna, Athan Reines, stdlib-bot)_
 -   [`adef3c5`](https://github.com/stdlib-js/stdlib/commit/adef3c5d87679c2b0b50fb8bee3bb91abc1be64a) - **feat:** add `lapack/base/dladiv` [(#7916)](https://github.com/stdlib-js/stdlib/pull/7916) _(by Aayush Khanna, Athan Reines)_
 -   [`933ae5e`](https://github.com/stdlib-js/stdlib/commit/933ae5eaa70b01019a3b8880d2666dddbd129298) - **fix:** remove xerbla from namespaces _(by Philipp Burckhardt)_
 -   [`5a704e5`](https://github.com/stdlib-js/stdlib/commit/5a704e58579ef5c9ac7599e77c48d8ee07a2fdb5) - **docs:** fix requires in example code _(by Philipp Burckhardt)_
