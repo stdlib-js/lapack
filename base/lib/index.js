@@ -109,6 +109,15 @@ setReadOnly( ns, 'dgttrf', require( './../../base/dgttrf' ) );
 setReadOnly( ns, 'dlacpy', require( './../../base/dlacpy' ) );
 
 /**
+* @name dladiv
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/dladiv}
+*/
+setReadOnly( ns, 'dladiv', require( './../../base/dladiv' ) );
+
+/**
 * @name dlamch
 * @memberof ns
 * @readonly
@@ -134,6 +143,15 @@ setReadOnly( ns, 'dlapy2', require( './../../base/dlapy2' ) );
 * @see {@link module:@stdlib/lapack/base/dlapy3}
 */
 setReadOnly( ns, 'dlapy3', require( './../../base/dlapy3' ) );
+
+/**
+* @name dlarf1f
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/dlarf1f}
+*/
+setReadOnly( ns, 'dlarf1f', require( './../../base/dlarf1f' ) );
 
 /**
 * @name dlaset
