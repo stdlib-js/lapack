@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-15)
+## Unreleased (2025-09-29)
 
 <section class="features">
 
 ### Features
 
+-   [`59f6e29`](https://github.com/stdlib-js/stdlib/commit/59f6e29cdc1cbde16ae592fa5c168992d08edbcc) - update `lapack/base` TypeScript declarations
 -   [`18b2372`](https://github.com/stdlib-js/stdlib/commit/18b2372476178bcaa6bd7ddc69396f0e87dc93f2) - add missing exports to namespaces
 -   [`126ff36`](https://github.com/stdlib-js/stdlib/commit/126ff36b5fd11cbf87771a6a82cd942412cec0cb) - add `lapack/base/dlarf1f` [(#7540)](https://github.com/stdlib-js/stdlib/pull/7540)
 -   [`adef3c5`](https://github.com/stdlib-js/stdlib/commit/adef3c5d87679c2b0b50fb8bee3bb91abc1be64a) - add `lapack/base/dladiv` [(#7916)](https://github.com/stdlib-js/stdlib/pull/7916)
@@ -98,6 +99,9 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`b7c2031`](https://github.com/stdlib-js/stdlib/commit/b7c20312491bdcf54ffc681e5fe489b9ba3d059c) - **docs:** clean-up TSDoc declaration comments _(by Philipp Burckhardt)_
+-   [`3dc5f1e`](https://github.com/stdlib-js/stdlib/commit/3dc5f1ef335565c05ee4be5878de5b587c7f28d6) - **docs:** fix require paths for complex arrays _(by Philipp Burckhardt)_
+-   [`59f6e29`](https://github.com/stdlib-js/stdlib/commit/59f6e29cdc1cbde16ae592fa5c168992d08edbcc) - **feat:** update `lapack/base` TypeScript declarations _(by Philipp Burckhardt)_
 -   [`905019c`](https://github.com/stdlib-js/stdlib/commit/905019c024611308865950e3d1dd51c642176e82) - **docs:** fix grammar in function descriptions _(by Philipp Burckhardt)_
 -   [`160d653`](https://github.com/stdlib-js/stdlib/commit/160d653473e812a90e424db13db12ef32371c7b1) - **test:** use `strictEqual` assertions _(by Athan Reines)_
 -   [`be60b0a`](https://github.com/stdlib-js/stdlib/commit/be60b0a48997f93597eefcfea28c3a722a259035) - **test:** use `strictEqual` assertions _(by Athan Reines)_
