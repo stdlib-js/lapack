@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-29)
+## Unreleased (2025-09-30)
 
 <section class="features">
 
@@ -99,6 +99,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`4655ded`](https://github.com/stdlib-js/stdlib/commit/4655ded021387edd1e516c2d838e49642245bed5) - **docs:** fix import statements [(#8163)](https://github.com/stdlib-js/stdlib/pull/8163) _(by stdlib-bot)_
 -   [`b7c2031`](https://github.com/stdlib-js/stdlib/commit/b7c20312491bdcf54ffc681e5fe489b9ba3d059c) - **docs:** clean-up TSDoc declaration comments _(by Philipp Burckhardt)_
 -   [`3dc5f1e`](https://github.com/stdlib-js/stdlib/commit/3dc5f1ef335565c05ee4be5878de5b587c7f28d6) - **docs:** fix require paths for complex arrays _(by Philipp Burckhardt)_
 -   [`59f6e29`](https://github.com/stdlib-js/stdlib/commit/59f6e29cdc1cbde16ae592fa5c168992d08edbcc) - **feat:** update `lapack/base` TypeScript declarations _(by Philipp Burckhardt)_
