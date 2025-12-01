@@ -99,6 +99,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`5cf2090`](https://github.com/stdlib-js/stdlib/commit/5cf2090fdc19c61d9de8fe9695ca02c6a9cbb716) - **docs:** improve doctests for complex number instances in `lapack/base/clacgv` [(#8655)](https://github.com/stdlib-js/stdlib/pull/8655) _(by Divyanshu)_
 -   [`ac023f1`](https://github.com/stdlib-js/stdlib/commit/ac023f15a988ba37aef2e2aad704ff2aafc94a6e) - **docs:** improve doctests for complex number instances in `lapack/base/clacpy` [(#8657)](https://github.com/stdlib-js/stdlib/pull/8657) _(by Divyanshu)_
 -   [`4ebbd97`](https://github.com/stdlib-js/stdlib/commit/4ebbd97f55188dd986e9b98b26972c3729b1f6e4) - **docs:** fix TypeScript declarations doctest lint errors _(by Philipp Burckhardt)_
 -   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
