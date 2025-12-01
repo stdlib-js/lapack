@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-30)
+## Unreleased (2025-12-01)
 
 <section class="features">
 
@@ -99,6 +99,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`ac023f1`](https://github.com/stdlib-js/stdlib/commit/ac023f15a988ba37aef2e2aad704ff2aafc94a6e) - **docs:** improve doctests for complex number instances in `lapack/base/clacpy` [(#8657)](https://github.com/stdlib-js/stdlib/pull/8657) _(by Divyanshu)_
 -   [`4ebbd97`](https://github.com/stdlib-js/stdlib/commit/4ebbd97f55188dd986e9b98b26972c3729b1f6e4) - **docs:** fix TypeScript declarations doctest lint errors _(by Philipp Burckhardt)_
 -   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
 -   [`4655ded`](https://github.com/stdlib-js/stdlib/commit/4655ded021387edd1e516c2d838e49642245bed5) - **docs:** fix import statements [(#8163)](https://github.com/stdlib-js/stdlib/pull/8163) _(by stdlib-bot)_
@@ -222,12 +223,13 @@ A total of 3 issues were closed in this release:
 
 ### Contributors
 
-A total of 7 people contributed to this release. Thank you to the following contributors:
+A total of 8 people contributed to this release. Thank you to the following contributors:
 
 -   Aarya Balwadkar
 -   Aayush Khanna
 -   Athan Reines
 -   Deepak Singh
+-   Divyanshu
 -   Mohammad Bin Aftab
 -   Philipp Burckhardt
 -   Ricky Reusser
