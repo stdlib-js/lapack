@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-02)
+## Unreleased (2025-12-04)
 
 <section class="features">
 
@@ -99,6 +99,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`1491c49`](https://github.com/stdlib-js/stdlib/commit/1491c49bbcf459dbcb011bdd5945b31a27e63510) - **docs:** improve doctests for complex number instances in `lapack/base/zlaset` [(#8753)](https://github.com/stdlib-js/stdlib/pull/8753) _(by Sagar Ratna Chaudhary)_
 -   [`01e7bd4`](https://github.com/stdlib-js/stdlib/commit/01e7bd455c657f195c00412a97f3ea6bbef99af9) - **docs:** add missing requires and update example code in TSDoc declarations _(by Philipp Burckhardt)_
 -   [`8f8680e`](https://github.com/stdlib-js/stdlib/commit/8f8680e6fa93ee957b3e01bf0efa53c2e8296774) - **docs:** improve doctests for complex number instances in `lapack/base/zrot` [(#8697)](https://github.com/stdlib-js/stdlib/pull/8697) _(by Divyanshu)_
 -   [`7267554`](https://github.com/stdlib-js/stdlib/commit/726755434945e98ffc397428019375371e701405) - **docs:** improve doctests for complex number instances in `lapack/base/zlacgv` [(#8696)](https://github.com/stdlib-js/stdlib/pull/8696) _(by Divyanshu)_
@@ -227,7 +228,7 @@ A total of 3 issues were closed in this release:
 
 ### Contributors
 
-A total of 8 people contributed to this release. Thank you to the following contributors:
+A total of 9 people contributed to this release. Thank you to the following contributors:
 
 -   Aarya Balwadkar
 -   Aayush Khanna
@@ -237,6 +238,7 @@ A total of 8 people contributed to this release. Thank you to the following cont
 -   Mohammad Bin Aftab
 -   Philipp Burckhardt
 -   Ricky Reusser
+-   Sagar Ratna Chaudhary
 
 </section>
 
