@@ -99,6 +99,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`4d295c9`](https://github.com/stdlib-js/stdlib/commit/4d295c9c9c7d47ed6b9ba728a5f0f70da2338905) - **docs:** improve doctests for complex number instances in `lapack/base/claset` [(#8976)](https://github.com/stdlib-js/stdlib/pull/8976) _(by Divyanshu, Athan Reines)_
 -   [`39ae040`](https://github.com/stdlib-js/stdlib/commit/39ae04030bb6dd7785b0d5c60846623815c6818b) - **docs:** improve doctests for complex number instances in `lapack/base/claset` [(#8950)](https://github.com/stdlib-js/stdlib/pull/8950) _(by Sagar Ratna Chaudhary)_
 -   [`1dcf101`](https://github.com/stdlib-js/stdlib/commit/1dcf1013f5f6b583f11aa4f33750a549114de858) - **docs:** update example code in namespace TSDoc declarations _(by Philipp Burckhardt)_
 -   [`ba34b1b`](https://github.com/stdlib-js/stdlib/commit/ba34b1bfec58f8f265747b73d05a319cde3405e4) - **docs:** improve doctests for complex number instances in `lapack/base/zlacpy` [(#8776)](https://github.com/stdlib-js/stdlib/pull/8776) _(by Sagar Ratna Chaudhary)_
