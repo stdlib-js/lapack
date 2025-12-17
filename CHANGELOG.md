@@ -99,6 +99,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`c569e53`](https://github.com/stdlib-js/stdlib/commit/c569e53a4938ceb02996bc94b8613b42f820df58) - **docs:** update `lapack/base` TypeScript declarations [(#9116)](https://github.com/stdlib-js/stdlib/pull/9116) _(by stdlib-bot)_
 -   [`ef3e8f4`](https://github.com/stdlib-js/stdlib/commit/ef3e8f448774d1ad3c657c2b506d0736adf01cee) - **docs:** improve doctests for complex number instances in `lapack/base/crot` [(#8953)](https://github.com/stdlib-js/stdlib/pull/8953) _(by Prajjwal Bajpai, Athan Reines)_
 -   [`4d295c9`](https://github.com/stdlib-js/stdlib/commit/4d295c9c9c7d47ed6b9ba728a5f0f70da2338905) - **docs:** improve doctests for complex number instances in `lapack/base/claset` [(#8976)](https://github.com/stdlib-js/stdlib/pull/8976) _(by Divyanshu, Athan Reines)_
 -   [`39ae040`](https://github.com/stdlib-js/stdlib/commit/39ae04030bb6dd7785b0d5c60846623815c6818b) - **docs:** improve doctests for complex number instances in `lapack/base/claset` [(#8950)](https://github.com/stdlib-js/stdlib/pull/8950) _(by Sagar Ratna Chaudhary)_
