@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-17)
+## Unreleased (2025-12-18)
 
 <section class="features">
 
@@ -85,9 +85,9 @@
 
 ### Closed Issues
 
-A total of 3 issues were closed in this release:
+A total of 4 issues were closed in this release:
 
-[#5052](https://github.com/stdlib-js/stdlib/issues/5052), [#6270](https://github.com/stdlib-js/stdlib/issues/6270), [#7335](https://github.com/stdlib-js/stdlib/issues/7335)
+[#5052](https://github.com/stdlib-js/stdlib/issues/5052), [#6270](https://github.com/stdlib-js/stdlib/issues/6270), [#7335](https://github.com/stdlib-js/stdlib/issues/7335), [#9150](https://github.com/stdlib-js/stdlib/issues/9150)
 
 </section>
 
@@ -99,6 +99,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`fd894a1`](https://github.com/stdlib-js/stdlib/commit/fd894a1a42d580d0ad12ae53ab9596cc44ee1870) - **docs:** fix broken Markdown link [(#9163)](https://github.com/stdlib-js/stdlib/pull/9163) _(by Sujal charati)_
 -   [`c569e53`](https://github.com/stdlib-js/stdlib/commit/c569e53a4938ceb02996bc94b8613b42f820df58) - **docs:** update `lapack/base` TypeScript declarations [(#9116)](https://github.com/stdlib-js/stdlib/pull/9116) _(by stdlib-bot)_
 -   [`ef3e8f4`](https://github.com/stdlib-js/stdlib/commit/ef3e8f448774d1ad3c657c2b506d0736adf01cee) - **docs:** improve doctests for complex number instances in `lapack/base/crot` [(#8953)](https://github.com/stdlib-js/stdlib/pull/8953) _(by Prajjwal Bajpai, Athan Reines)_
 -   [`4d295c9`](https://github.com/stdlib-js/stdlib/commit/4d295c9c9c7d47ed6b9ba728a5f0f70da2338905) - **docs:** improve doctests for complex number instances in `lapack/base/claset` [(#8976)](https://github.com/stdlib-js/stdlib/pull/8976) _(by Divyanshu, Athan Reines)_
@@ -234,7 +235,7 @@ A total of 3 issues were closed in this release:
 
 ### Contributors
 
-A total of 10 people contributed to this release. Thank you to the following contributors:
+A total of 11 people contributed to this release. Thank you to the following contributors:
 
 -   Aarya Balwadkar
 -   Aayush Khanna
@@ -246,6 +247,7 @@ A total of 10 people contributed to this release. Thank you to the following con
 -   Prajjwal Bajpai
 -   Ricky Reusser
 -   Sagar Ratna Chaudhary
+-   Sujal charati
 
 </section>
 
