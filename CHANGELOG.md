@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-18)
+## Unreleased (2025-12-19)
 
 <section class="features">
 
@@ -85,9 +85,9 @@
 
 ### Closed Issues
 
-A total of 5 issues were closed in this release:
+A total of 6 issues were closed in this release:
 
-[#5052](https://github.com/stdlib-js/stdlib/issues/5052), [#6270](https://github.com/stdlib-js/stdlib/issues/6270), [#7335](https://github.com/stdlib-js/stdlib/issues/7335), [#9128](https://github.com/stdlib-js/stdlib/issues/9128), [#9150](https://github.com/stdlib-js/stdlib/issues/9150)
+[#5052](https://github.com/stdlib-js/stdlib/issues/5052), [#6270](https://github.com/stdlib-js/stdlib/issues/6270), [#7335](https://github.com/stdlib-js/stdlib/issues/7335), [#9128](https://github.com/stdlib-js/stdlib/issues/9128), [#9149](https://github.com/stdlib-js/stdlib/issues/9149), [#9150](https://github.com/stdlib-js/stdlib/issues/9150)
 
 </section>
 
@@ -99,6 +99,7 @@ A total of 5 issues were closed in this release:
 
 <details>
 
+-   [`b0962b9`](https://github.com/stdlib-js/stdlib/commit/b0962b916b498ef0d0d510c41857e5169176997c) - **docs:** fix broken Markdown link [(#9249)](https://github.com/stdlib-js/stdlib/pull/9249) _(by Ketan-Ag, Philipp Burckhardt)_
 -   [`e5d1aaf`](https://github.com/stdlib-js/stdlib/commit/e5d1aaf69f0990a223bdc568ce6894185587b601) - **docs:** fix broken Markdown link [(#9159)](https://github.com/stdlib-js/stdlib/pull/9159) _(by Manit Roy)_
 -   [`fd894a1`](https://github.com/stdlib-js/stdlib/commit/fd894a1a42d580d0ad12ae53ab9596cc44ee1870) - **docs:** fix broken Markdown link [(#9163)](https://github.com/stdlib-js/stdlib/pull/9163) _(by Sujal charati)_
 -   [`c569e53`](https://github.com/stdlib-js/stdlib/commit/c569e53a4938ceb02996bc94b8613b42f820df58) - **docs:** update `lapack/base` TypeScript declarations [(#9116)](https://github.com/stdlib-js/stdlib/pull/9116) _(by stdlib-bot)_
@@ -236,13 +237,14 @@ A total of 5 issues were closed in this release:
 
 ### Contributors
 
-A total of 12 people contributed to this release. Thank you to the following contributors:
+A total of 13 people contributed to this release. Thank you to the following contributors:
 
 -   Aarya Balwadkar
 -   Aayush Khanna
 -   Athan Reines
 -   Deepak Singh
 -   Divyanshu
+-   Ketan-Ag
 -   Manit Roy
 -   Mohammad Bin Aftab
 -   Philipp Burckhardt
