@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-19)
+## Unreleased (2026-01-05)
 
 <section class="features">
 
@@ -85,9 +85,9 @@
 
 ### Closed Issues
 
-A total of 6 issues were closed in this release:
+A total of 7 issues were closed in this release:
 
-[#5052](https://github.com/stdlib-js/stdlib/issues/5052), [#6270](https://github.com/stdlib-js/stdlib/issues/6270), [#7335](https://github.com/stdlib-js/stdlib/issues/7335), [#9128](https://github.com/stdlib-js/stdlib/issues/9128), [#9149](https://github.com/stdlib-js/stdlib/issues/9149), [#9150](https://github.com/stdlib-js/stdlib/issues/9150)
+[#5052](https://github.com/stdlib-js/stdlib/issues/5052), [#6270](https://github.com/stdlib-js/stdlib/issues/6270), [#7335](https://github.com/stdlib-js/stdlib/issues/7335), [#9128](https://github.com/stdlib-js/stdlib/issues/9128), [#9149](https://github.com/stdlib-js/stdlib/issues/9149), [#9150](https://github.com/stdlib-js/stdlib/issues/9150), [#9527](https://github.com/stdlib-js/stdlib/issues/9527)
 
 </section>
 
@@ -99,6 +99,7 @@ A total of 6 issues were closed in this release:
 
 <details>
 
+-   [`4bb46e9`](https://github.com/stdlib-js/stdlib/commit/4bb46e9a4f4421fd250ac065aba2fd7ca8dfa5da) - **chore:** fix JavaScript lint errors [(#9530)](https://github.com/stdlib-js/stdlib/pull/9530) _(by kaushal-kumar-it, Athan Reines)_
 -   [`b0962b9`](https://github.com/stdlib-js/stdlib/commit/b0962b916b498ef0d0d510c41857e5169176997c) - **docs:** fix broken Markdown link [(#9249)](https://github.com/stdlib-js/stdlib/pull/9249) _(by Ketan-Ag, Philipp Burckhardt)_
 -   [`e5d1aaf`](https://github.com/stdlib-js/stdlib/commit/e5d1aaf69f0990a223bdc568ce6894185587b601) - **docs:** fix broken Markdown link [(#9159)](https://github.com/stdlib-js/stdlib/pull/9159) _(by Manit Roy)_
 -   [`fd894a1`](https://github.com/stdlib-js/stdlib/commit/fd894a1a42d580d0ad12ae53ab9596cc44ee1870) - **docs:** fix broken Markdown link [(#9163)](https://github.com/stdlib-js/stdlib/pull/9163) _(by Sujal charati)_
@@ -237,7 +238,7 @@ A total of 6 issues were closed in this release:
 
 ### Contributors
 
-A total of 13 people contributed to this release. Thank you to the following contributors:
+A total of 14 people contributed to this release. Thank you to the following contributors:
 
 -   Aarya Balwadkar
 -   Aayush Khanna
@@ -252,6 +253,7 @@ A total of 13 people contributed to this release. Thank you to the following con
 -   Ricky Reusser
 -   Sagar Ratna Chaudhary
 -   Sujal charati
+-   kaushal-kumar-it
 
 </section>
 
