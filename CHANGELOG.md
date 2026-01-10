@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-05)
+## Unreleased (2026-01-10)
 
 <section class="features">
 
@@ -99,6 +99,7 @@ A total of 7 issues were closed in this release:
 
 <details>
 
+-   [`bfc8c3a`](https://github.com/stdlib-js/stdlib/commit/bfc8c3a7bcebf1a049c9e457ab440f540fd5c7a9) - **chore:** use one asterisk for license comment in TS files _(by Philipp Burckhardt)_
 -   [`4bb46e9`](https://github.com/stdlib-js/stdlib/commit/4bb46e9a4f4421fd250ac065aba2fd7ca8dfa5da) - **chore:** fix JavaScript lint errors [(#9530)](https://github.com/stdlib-js/stdlib/pull/9530) _(by kaushal-kumar-it, Athan Reines)_
 -   [`b0962b9`](https://github.com/stdlib-js/stdlib/commit/b0962b916b498ef0d0d510c41857e5169176997c) - **docs:** fix broken Markdown link [(#9249)](https://github.com/stdlib-js/stdlib/pull/9249) _(by Ketan-Ag, Philipp Burckhardt)_
 -   [`e5d1aaf`](https://github.com/stdlib-js/stdlib/commit/e5d1aaf69f0990a223bdc568ce6894185587b601) - **docs:** fix broken Markdown link [(#9159)](https://github.com/stdlib-js/stdlib/pull/9159) _(by Manit Roy)_
