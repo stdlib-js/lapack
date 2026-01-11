@@ -16,7 +16,7 @@
 * limitations under the License.
 */
 
-/* eslint-disable max-len */
+/* eslint-disable max-len, stdlib/no-empty-lines-between-requires */
 
 'use strict';
 
@@ -48,6 +48,7 @@ var COL_MAJOR_REV_PIVOTS = require( './fixtures/column_major_reverse_pivots.json
 var COL_MAJOR_REV_PIVOTS_IPIV_STRIDE = require( './fixtures/column_major_reverse_pivots_ipiv_stride.json' ); // eslint-disable-line id-length
 var COL_MAJOR_REV_PIVOTS_IPIV_OFFSET = require( './fixtures/column_major_reverse_pivots_ipiv_offset.json' ); // eslint-disable-line id-length
 var COL_MAJOR_K1 = require( './fixtures/column_major_k1.json' );
+
 var ROW_MAJOR = require( './fixtures/row_major_no_offsets.json' );
 var ROW_MAJOR_IPIV_STRIDE_POS = require( './fixtures/row_major_ipiv_stride_positive.json' );
 var ROW_MAJOR_IPIV_OFFSET = require( './fixtures/row_major_ipiv_offset.json' );
