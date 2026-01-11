@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-10)
+## Unreleased (2026-01-11)
 
 <section class="features">
 
@@ -85,9 +85,9 @@
 
 ### Closed Issues
 
-A total of 7 issues were closed in this release:
+A total of 8 issues were closed in this release:
 
-[#5052](https://github.com/stdlib-js/stdlib/issues/5052), [#6270](https://github.com/stdlib-js/stdlib/issues/6270), [#7335](https://github.com/stdlib-js/stdlib/issues/7335), [#9128](https://github.com/stdlib-js/stdlib/issues/9128), [#9149](https://github.com/stdlib-js/stdlib/issues/9149), [#9150](https://github.com/stdlib-js/stdlib/issues/9150), [#9527](https://github.com/stdlib-js/stdlib/issues/9527)
+[#5052](https://github.com/stdlib-js/stdlib/issues/5052), [#6270](https://github.com/stdlib-js/stdlib/issues/6270), [#7335](https://github.com/stdlib-js/stdlib/issues/7335), [#9128](https://github.com/stdlib-js/stdlib/issues/9128), [#9149](https://github.com/stdlib-js/stdlib/issues/9149), [#9150](https://github.com/stdlib-js/stdlib/issues/9150), [#9527](https://github.com/stdlib-js/stdlib/issues/9527), [#9687](https://github.com/stdlib-js/stdlib/issues/9687)
 
 </section>
 
@@ -99,6 +99,8 @@ A total of 7 issues were closed in this release:
 
 <details>
 
+-   [`7d17660`](https://github.com/stdlib-js/stdlib/commit/7d17660137c611ad174f81df229a31f4d3080cbc) - **chore:** fix JavaScript lint errors [(#9690)](https://github.com/stdlib-js/stdlib/pull/9690) _(by Divyanshu)_
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`bfc8c3a`](https://github.com/stdlib-js/stdlib/commit/bfc8c3a7bcebf1a049c9e457ab440f540fd5c7a9) - **chore:** use one asterisk for license comment in TS files _(by Philipp Burckhardt)_
 -   [`4bb46e9`](https://github.com/stdlib-js/stdlib/commit/4bb46e9a4f4421fd250ac065aba2fd7ca8dfa5da) - **chore:** fix JavaScript lint errors [(#9530)](https://github.com/stdlib-js/stdlib/pull/9530) _(by kaushal-kumar-it, Athan Reines)_
 -   [`b0962b9`](https://github.com/stdlib-js/stdlib/commit/b0962b916b498ef0d0d510c41857e5169176997c) - **docs:** fix broken Markdown link [(#9249)](https://github.com/stdlib-js/stdlib/pull/9249) _(by Ketan-Ag, Philipp Burckhardt)_
