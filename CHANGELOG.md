@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-11)
+## Unreleased (2026-01-12)
 
 <section class="features">
 
@@ -99,6 +99,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`4026f6b`](https://github.com/stdlib-js/stdlib/commit/4026f6b885a77192ae147c6314c691db8d375f26) - **docs:** add references _(by Athan Reines)_
 -   [`1216f34`](https://github.com/stdlib-js/stdlib/commit/1216f342bddf49075c7b29c30bf145f413171344) - **test:** visually group require statements _(by Athan Reines)_
 -   [`7d17660`](https://github.com/stdlib-js/stdlib/commit/7d17660137c611ad174f81df229a31f4d3080cbc) - **chore:** fix JavaScript lint errors [(#9690)](https://github.com/stdlib-js/stdlib/pull/9690) _(by Divyanshu)_
 -   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
