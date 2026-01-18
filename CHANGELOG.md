@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-12)
+## Unreleased (2026-01-18)
 
 <section class="features">
 
@@ -58,6 +58,7 @@
 
 ### Bug Fixes
 
+-   [`5b1c0fd`](https://github.com/stdlib-js/stdlib/commit/5b1c0fd3f21b52b9cf1a791ab74367a08e79b2c8) - add missing exports comments
 -   [`933ae5e`](https://github.com/stdlib-js/stdlib/commit/933ae5eaa70b01019a3b8880d2666dddbd129298) - remove xerbla from namespaces
 -   [`f51b061`](https://github.com/stdlib-js/stdlib/commit/f51b061fd0ed716d4c7ea79a49b838234dc55bef) - rename symbol to avoid conflict
 
@@ -99,6 +100,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`5b1c0fd`](https://github.com/stdlib-js/stdlib/commit/5b1c0fd3f21b52b9cf1a791ab74367a08e79b2c8) - **fix:** add missing exports comments _(by Philipp Burckhardt)_
 -   [`4026f6b`](https://github.com/stdlib-js/stdlib/commit/4026f6b885a77192ae147c6314c691db8d375f26) - **docs:** add references _(by Athan Reines)_
 -   [`1216f34`](https://github.com/stdlib-js/stdlib/commit/1216f342bddf49075c7b29c30bf145f413171344) - **test:** visually group require statements _(by Athan Reines)_
 -   [`7d17660`](https://github.com/stdlib-js/stdlib/commit/7d17660137c611ad174f81df229a31f4d3080cbc) - **chore:** fix JavaScript lint errors [(#9690)](https://github.com/stdlib-js/stdlib/pull/9690) _(by Divyanshu)_
