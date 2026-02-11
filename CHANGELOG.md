@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-18)
+## Unreleased (2026-02-11)
 
 <section class="features">
 
@@ -100,6 +100,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`ace22bd`](https://github.com/stdlib-js/stdlib/commit/ace22bd1a1e27e34ee1436e7ed5a82be99584f34) - **bench:** refactor to use string interpolation in `lapack/base/zrot` [(#10131)](https://github.com/stdlib-js/stdlib/pull/10131) _(by Prajjwal Bajpai)_
 -   [`5b1c0fd`](https://github.com/stdlib-js/stdlib/commit/5b1c0fd3f21b52b9cf1a791ab74367a08e79b2c8) - **fix:** add missing exports comments _(by Philipp Burckhardt)_
 -   [`4026f6b`](https://github.com/stdlib-js/stdlib/commit/4026f6b885a77192ae147c6314c691db8d375f26) - **docs:** add references _(by Athan Reines)_
 -   [`1216f34`](https://github.com/stdlib-js/stdlib/commit/1216f342bddf49075c7b29c30bf145f413171344) - **test:** visually group require statements _(by Athan Reines)_
