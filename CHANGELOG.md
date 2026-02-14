@@ -100,6 +100,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`1c77c62`](https://github.com/stdlib-js/stdlib/commit/1c77c6221a42796e036a3f370732dfec9d579264) - **bench:** refactor to use string interpolation in `lapack/base/clacgv` [(#10088)](https://github.com/stdlib-js/stdlib/pull/10088) _(by Prajjwal Bajpai)_
 -   [`143c2b8`](https://github.com/stdlib-js/stdlib/commit/143c2b82010dee7aeff548e4cfdd946fe410b8ee) - **bench:** refactor to use string interpolation in `lapack/base/crot` [(#10094)](https://github.com/stdlib-js/stdlib/pull/10094) _(by Prajjwal Bajpai)_
 -   [`4a7457b`](https://github.com/stdlib-js/stdlib/commit/4a7457b1f6ab68883f0501b5c0186a3ddcdea707) - **bench:** refactor to use string interpolation in `lapack/base/dgttrf` [(#10096)](https://github.com/stdlib-js/stdlib/pull/10096) _(by Prajjwal Bajpai)_
 -   [`ace22bd`](https://github.com/stdlib-js/stdlib/commit/ace22bd1a1e27e34ee1436e7ed5a82be99584f34) - **bench:** refactor to use string interpolation in `lapack/base/zrot` [(#10131)](https://github.com/stdlib-js/stdlib/pull/10131) _(by Prajjwal Bajpai)_
