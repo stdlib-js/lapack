@@ -100,6 +100,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`cc6f4ba`](https://github.com/stdlib-js/stdlib/commit/cc6f4bab257a418105ee8f914e94130c7a3608ea) - **bench:** refactor to use string interpolation in `lapack/base/iladlr` [(#10120)](https://github.com/stdlib-js/stdlib/pull/10120) _(by Prajjwal Bajpai, Athan Reines)_
 -   [`50d86a6`](https://github.com/stdlib-js/stdlib/commit/50d86a6882b7d6b0d8506de33c3467102e955e4a) - **bench:** refactor to use string interpolation in `lapack/base/sge-trans` [(#10123)](https://github.com/stdlib-js/stdlib/pull/10123) _(by Prajjwal Bajpai, Athan Reines)_
 -   [`401114d`](https://github.com/stdlib-js/stdlib/commit/401114d47c349c8e1e5dd329b747fc0ec2614529) - **bench:** refactor to use string interpolation in `lapack/base/dlaswp` [(#10102)](https://github.com/stdlib-js/stdlib/pull/10102) _(by Prajjwal Bajpai, Athan Reines)_
 -   [`f9491c3`](https://github.com/stdlib-js/stdlib/commit/f9491c3fa3b043ed4c0d9ea3141cedfdd4239ee6) - **bench:** refactor to use string interpolation in `lapack/base/dlarf1f` [(#10098)](https://github.com/stdlib-js/stdlib/pull/10098) _(by Prajjwal Bajpai, Athan Reines)_
