@@ -100,6 +100,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`3172206`](https://github.com/stdlib-js/stdlib/commit/317220684f42b0b7c51373e65eb354e7d2be6fc7) - **bench:** fix description _(by Athan Reines)_
 -   [`33e892a`](https://github.com/stdlib-js/stdlib/commit/33e892a03f8c628919751d82db58de78f90aa663) - **bench:** refactor to use string interpolation in `lapack/base/claset` [(#10092)](https://github.com/stdlib-js/stdlib/pull/10092) _(by Prajjwal Bajpai, Athan Reines)_
 -   [`5064174`](https://github.com/stdlib-js/stdlib/commit/5064174c60795a3122eff919ecdb06e5cbeefbed) - **bench:** refactor to use string interpolation in `lapack/base/clacpy` [(#10091)](https://github.com/stdlib-js/stdlib/pull/10091) _(by Prajjwal Bajpai, Athan Reines)_
 -   [`a9a8876`](https://github.com/stdlib-js/stdlib/commit/a9a8876832e118b718fc4e7727774ab017a73ca2) - **bench:** refactor to use string interpolation in `lapack/base/dge-trans` [(#10095)](https://github.com/stdlib-js/stdlib/pull/10095) _(by Prajjwal Bajpai, Athan Reines)_
