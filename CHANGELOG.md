@@ -100,6 +100,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`208c5bf`](https://github.com/stdlib-js/stdlib/commit/208c5bf44bb87460a2a310e593193970c0366455) - **bench:** refactor to use string interpolation in `lapack/base/dpttrf` [(#10103)](https://github.com/stdlib-js/stdlib/pull/10103) _(by Prajjwal Bajpai)_
 -   [`cbd1066`](https://github.com/stdlib-js/stdlib/commit/cbd1066cbd4df6dcb9e699d2fdd94d3447db9e8a) - **bench:** refactor to use string interpolation in `lapack/base/spttrf` [(#10126)](https://github.com/stdlib-js/stdlib/pull/10126) _(by Prajjwal Bajpai)_
 -   [`db7bb4c`](https://github.com/stdlib-js/stdlib/commit/db7bb4c8b129e4d082aaa8531cca082603107fe3) - **bench:** refactor to use string interpolation in `lapack/base/zlacgv` [(#10127)](https://github.com/stdlib-js/stdlib/pull/10127) _(by Prajjwal Bajpai)_
 -   [`2ed3934`](https://github.com/stdlib-js/stdlib/commit/2ed3934650fc6e9dd7065f21c4de66e3457cc5cb) - **test:** fix argument order and regenerate fixtures _(by Philipp Burckhardt)_
