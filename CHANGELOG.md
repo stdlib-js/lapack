@@ -100,6 +100,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`fb50958`](https://github.com/stdlib-js/stdlib/commit/fb50958365f133ae79a6caedaa2351be561cfd75) - **bench:** refactor to use string interpolation in `lapack/base/slaswp` [(#10125)](https://github.com/stdlib-js/stdlib/pull/10125) _(by Prajjwal Bajpai, Athan Reines)_
 -   [`b2ac230`](https://github.com/stdlib-js/stdlib/commit/b2ac2304fe21c8c482b272646776c591be9282e2) - **bench:** refactor to use string interpolation in `lapack/base/zlacpy` [(#10128)](https://github.com/stdlib-js/stdlib/pull/10128) _(by Prajjwal Bajpai, Athan Reines)_
 -   [`648fb21`](https://github.com/stdlib-js/stdlib/commit/648fb21364cce31bee7b94e6aaa2f136b7801f87) - **bench:** refactor to use string interpolation in `lapack/base/zlaset` [(#10129)](https://github.com/stdlib-js/stdlib/pull/10129) _(by Prajjwal Bajpai, Athan Reines)_
 -   [`87878e7`](https://github.com/stdlib-js/stdlib/commit/87878e70356befd4c09e8ae67b5b73026c5648b5) - **bench:** refactor to use string interpolation in `lapack/base/zlaswp` [(#10130)](https://github.com/stdlib-js/stdlib/pull/10130) _(by Prajjwal Bajpai, Athan Reines)_
