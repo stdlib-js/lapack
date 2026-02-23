@@ -25,7 +25,6 @@ var uniform = require( '@stdlib/random/array/uniform' );
 var isnan = require( '@stdlib/math/base/assert/is-nan' );
 var pow = require( '@stdlib/math/base/special/pow' );
 var floor = require( '@stdlib/math/base/special/floor' );
-var format = require( '@stdlib/string/format' );
 var pkg = require( './../package.json' ).name;
 var dgetrans = require( './../lib/dgetrans.js' );
 
@@ -99,7 +98,7 @@ function main() {
 	for ( i = min; i <= max; i++ ) {
 		N = floor( pow( pow( 10, i ), 1.0/2.0 ) );
 		f = createBenchmark( N );
-		bench( format( '%s:order=column-major,size=%d', pkg, N*N ), f );
+		bench( pkg+':order=column-major,size='+(N*N), f );
 	}
 }
 
