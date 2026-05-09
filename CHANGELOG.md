@@ -100,6 +100,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`1c9bfd0`](https://github.com/stdlib-js/stdlib/commit/1c9bfd028c7654e21291e3f4a88fcf3918628532) - **docs:** improve doctests for complex number typed arrays in `lapack/base/clacgv` [(#12018)](https://github.com/stdlib-js/stdlib/pull/12018) _(by Karan Anand)_
 -   [`7ede528`](https://github.com/stdlib-js/stdlib/commit/7ede5282c0a043ac93f65d48e28c494a68f05182) - **docs:** improve doctests for complex number typed arrays in `lapack/base/clacpy` [(#12019)](https://github.com/stdlib-js/stdlib/pull/12019) _(by Karan Anand)_
 -   [`68d17f7`](https://github.com/stdlib-js/stdlib/commit/68d17f71701c225b1b06a31608744834ad9d4d1b) - **docs:** improve doctests for complex number typed arrays in `lapack/base/claset` [(#12020)](https://github.com/stdlib-js/stdlib/pull/12020) _(by Karan Anand)_
 -   [`f578bc5`](https://github.com/stdlib-js/stdlib/commit/f578bc5f6f1694fe79556b5dca8952475ba4e1d5) - **docs:** improve doctests for complex number typed arrays in `lapack/base/crot` [(#12021)](https://github.com/stdlib-js/stdlib/pull/12021) _(by Karan Anand)_
