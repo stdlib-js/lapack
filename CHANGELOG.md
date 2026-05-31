@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-30)
+## Unreleased (2026-05-31)
 
 <section class="features">
 
 ### Features
 
+-   [`b4f3a9c`](https://github.com/stdlib-js/stdlib/commit/b4f3a9ce4f360b38a6d4d8112fdb9b86cdac0073) - add `lapack/base/dlaisnan` [(#12183)](https://github.com/stdlib-js/stdlib/pull/12183)
 -   [`59f6e29`](https://github.com/stdlib-js/stdlib/commit/59f6e29cdc1cbde16ae592fa5c168992d08edbcc) - update `lapack/base` TypeScript declarations
 -   [`18b2372`](https://github.com/stdlib-js/stdlib/commit/18b2372476178bcaa6bd7ddc69396f0e87dc93f2) - add missing exports to namespaces
 -   [`126ff36`](https://github.com/stdlib-js/stdlib/commit/126ff36b5fd11cbf87771a6a82cd942412cec0cb) - add `lapack/base/dlarf1f` [(#7540)](https://github.com/stdlib-js/stdlib/pull/7540)
@@ -100,6 +101,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`b4f3a9c`](https://github.com/stdlib-js/stdlib/commit/b4f3a9ce4f360b38a6d4d8112fdb9b86cdac0073) - **feat:** add `lapack/base/dlaisnan` [(#12183)](https://github.com/stdlib-js/stdlib/pull/12183) _(by Pratik, Karan Anand)_
 -   [`b9dbd3e`](https://github.com/stdlib-js/stdlib/commit/b9dbd3e3105c2449bb1f6b95f8c442bbb5b14552) - **chore:** remove misspelled keyword [(#12368)](https://github.com/stdlib-js/stdlib/pull/12368) _(by Philipp Burckhardt)_
 -   [`212d36e`](https://github.com/stdlib-js/stdlib/commit/212d36e260c813c5969e4b3c26f4b04766fd6df8) - **docs:** improve doctests for complex number typed arrays in `lapack/base/zrot` [(#12025)](https://github.com/stdlib-js/stdlib/pull/12025) _(by Karan Anand)_
 -   [`88fbe64`](https://github.com/stdlib-js/stdlib/commit/88fbe641ebaee224f8ab9b4bf9bb18a1634222fb) - **docs:** improve doctests for complex number typed arrays in `lapack/base/zlaset` [(#12024)](https://github.com/stdlib-js/stdlib/pull/12024) _(by Karan Anand)_
@@ -285,7 +287,7 @@ A total of 8 issues were closed in this release:
 
 ### Contributors
 
-A total of 15 people contributed to this release. Thank you to the following contributors:
+A total of 16 people contributed to this release. Thank you to the following contributors:
 
 -   Aarya Balwadkar
 -   Aayush Khanna
@@ -298,6 +300,7 @@ A total of 15 people contributed to this release. Thank you to the following con
 -   Mohammad Bin Aftab
 -   Philipp Burckhardt
 -   Prajjwal Bajpai
+-   Pratik
 -   Ricky Reusser
 -   Sagar Ratna Chaudhary
 -   Sujal charati
