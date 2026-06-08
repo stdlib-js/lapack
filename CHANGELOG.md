@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-07)
+## Unreleased (2026-06-08)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`fe0c3ea`](https://github.com/stdlib-js/stdlib/commit/fe0c3ea063fe8c5c4f8b0c299f5b49e45e00df55) - **docs:** update `lapack/base` TypeScript declarations [(#12687)](https://github.com/stdlib-js/stdlib/pull/12687) _(by stdlib-bot)_
 -   [`1625581`](https://github.com/stdlib-js/stdlib/commit/162558107026b743bb22b09701ab62f601e7058f) - **docs:** fix examples in `lapack/base` [(#12671)](https://github.com/stdlib-js/stdlib/pull/12671) _(by Philipp Burckhardt)_
 
 </details>
