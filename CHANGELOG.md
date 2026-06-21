@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`7588097`](https://github.com/stdlib-js/stdlib/commit/758809791cec0d8392bf22d7956d811d6af9e663) - add `lapack/base/dlarf` [(#12331)](https://github.com/stdlib-js/stdlib/pull/12331)
 -   [`bcf3247`](https://github.com/stdlib-js/stdlib/commit/bcf324780e652c398ffe119260cd3431513c858d) - add `lapack/base/disnan` [(#12289)](https://github.com/stdlib-js/stdlib/pull/12289)
 
 </section>
@@ -22,6 +23,7 @@
 
 <details>
 
+-   [`7588097`](https://github.com/stdlib-js/stdlib/commit/758809791cec0d8392bf22d7956d811d6af9e663) - **feat:** add `lapack/base/dlarf` [(#12331)](https://github.com/stdlib-js/stdlib/pull/12331) _(by Pratik, Athan Reines, Karan Anand, Athan Reines)_
 -   [`0c1e34d`](https://github.com/stdlib-js/stdlib/commit/0c1e34d0a376db33740aed4f1144af35da039bca) - **bench:** fix name _(by Athan Reines)_
 -   [`89ad25d`](https://github.com/stdlib-js/stdlib/commit/89ad25dc6893c7496faf3e32b92518d78072c8e3) - **chore:** fix descriptions _(by Athan Reines)_
 -   [`bcf3247`](https://github.com/stdlib-js/stdlib/commit/bcf324780e652c398ffe119260cd3431513c858d) - **feat:** add `lapack/base/disnan` [(#12289)](https://github.com/stdlib-js/stdlib/pull/12289) _(by Pratik, Athan Reines, Karan Anand)_
