@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-08)
+## Unreleased (2026-06-21)
+
+<section class="features">
+
+### Features
+
+-   [`bcf3247`](https://github.com/stdlib-js/stdlib/commit/bcf324780e652c398ffe119260cd3431513c858d) - add `lapack/base/disnan` [(#12289)](https://github.com/stdlib-js/stdlib/pull/12289)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`bcf3247`](https://github.com/stdlib-js/stdlib/commit/bcf324780e652c398ffe119260cd3431513c858d) - **feat:** add `lapack/base/disnan` [(#12289)](https://github.com/stdlib-js/stdlib/pull/12289) _(by Pratik, Athan Reines, Karan Anand)_
 -   [`fe0c3ea`](https://github.com/stdlib-js/stdlib/commit/fe0c3ea063fe8c5c4f8b0c299f5b49e45e00df55) - **docs:** update `lapack/base` TypeScript declarations [(#12687)](https://github.com/stdlib-js/stdlib/pull/12687) _(by stdlib-bot)_
 -   [`1625581`](https://github.com/stdlib-js/stdlib/commit/162558107026b743bb22b09701ab62f601e7058f) - **docs:** fix examples in `lapack/base` [(#12671)](https://github.com/stdlib-js/stdlib/pull/12671) _(by Philipp Burckhardt)_
 
@@ -25,9 +36,12 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
+-   Karan Anand
 -   Philipp Burckhardt
+-   Pratik
 
 </section>
 
