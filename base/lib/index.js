@@ -100,6 +100,15 @@ setReadOnly( ns, 'dgetrans', require( './../../base/dge-trans' ) );
 setReadOnly( ns, 'dgttrf', require( './../../base/dgttrf' ) );
 
 /**
+* @name disnan
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/disnan}
+*/
+setReadOnly( ns, 'disnan', require( './../../base/disnan' ) );
+
+/**
 * @name dlacpy
 * @memberof ns
 * @readonly
@@ -116,6 +125,15 @@ setReadOnly( ns, 'dlacpy', require( './../../base/dlacpy' ) );
 * @see {@link module:@stdlib/lapack/base/dladiv}
 */
 setReadOnly( ns, 'dladiv', require( './../../base/dladiv' ) );
+
+/**
+* @name dlaisnan
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/dlaisnan}
+*/
+setReadOnly( ns, 'dlaisnan', require( './../../base/dlaisnan' ) );
 
 /**
 * @name dlamch
@@ -143,6 +161,15 @@ setReadOnly( ns, 'dlapy2', require( './../../base/dlapy2' ) );
 * @see {@link module:@stdlib/lapack/base/dlapy3}
 */
 setReadOnly( ns, 'dlapy3', require( './../../base/dlapy3' ) );
+
+/**
+* @name dlarf
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/dlarf}
+*/
+setReadOnly( ns, 'dlarf', require( './../../base/dlarf' ) );
 
 /**
 * @name dlarf1f
