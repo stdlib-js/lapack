@@ -26,6 +26,7 @@
 
 <details>
 
+-   [`6a301dd`](https://github.com/stdlib-js/stdlib/commit/6a301ddefd0cf3bd4c05b26ff69aaaebaa356b83) - **docs:** update namespace table of contents [(#13043)](https://github.com/stdlib-js/stdlib/pull/13043) _(by stdlib-bot)_
 -   [`367d0a4`](https://github.com/stdlib-js/stdlib/commit/367d0a4d6f44639b819cbe30b0f39b7c54ff29ed) - **feat:** update `lapack/base` TypeScript declarations [(#13042)](https://github.com/stdlib-js/stdlib/pull/13042) _(by stdlib-bot)_
 -   [`1d06a97`](https://github.com/stdlib-js/stdlib/commit/1d06a97f98ef9a833194d382e1a37dfea0aeb01c) - **feat:** add `disnan` and `dlaisnan` to namespace _(by Athan Reines)_
 -   [`d7e242d`](https://github.com/stdlib-js/stdlib/commit/d7e242d798685e1e1f8e01685df2f98419aa67f2) - **feat:** add `dlarf` to namespace _(by Athan Reines)_
