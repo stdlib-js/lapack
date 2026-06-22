@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-21)
+## Unreleased (2026-06-22)
 
 <section class="features">
 
 ### Features
 
+-   [`367d0a4`](https://github.com/stdlib-js/stdlib/commit/367d0a4d6f44639b819cbe30b0f39b7c54ff29ed) - update `lapack/base` TypeScript declarations [(#13042)](https://github.com/stdlib-js/stdlib/pull/13042)
 -   [`1d06a97`](https://github.com/stdlib-js/stdlib/commit/1d06a97f98ef9a833194d382e1a37dfea0aeb01c) - add `disnan` and `dlaisnan` to namespace
 -   [`d7e242d`](https://github.com/stdlib-js/stdlib/commit/d7e242d798685e1e1f8e01685df2f98419aa67f2) - add `dlarf` to namespace
 -   [`7588097`](https://github.com/stdlib-js/stdlib/commit/758809791cec0d8392bf22d7956d811d6af9e663) - add `lapack/base/dlarf` [(#12331)](https://github.com/stdlib-js/stdlib/pull/12331)
@@ -25,6 +26,7 @@
 
 <details>
 
+-   [`367d0a4`](https://github.com/stdlib-js/stdlib/commit/367d0a4d6f44639b819cbe30b0f39b7c54ff29ed) - **feat:** update `lapack/base` TypeScript declarations [(#13042)](https://github.com/stdlib-js/stdlib/pull/13042) _(by stdlib-bot)_
 -   [`1d06a97`](https://github.com/stdlib-js/stdlib/commit/1d06a97f98ef9a833194d382e1a37dfea0aeb01c) - **feat:** add `disnan` and `dlaisnan` to namespace _(by Athan Reines)_
 -   [`d7e242d`](https://github.com/stdlib-js/stdlib/commit/d7e242d798685e1e1f8e01685df2f98419aa67f2) - **feat:** add `dlarf` to namespace _(by Athan Reines)_
 -   [`7588097`](https://github.com/stdlib-js/stdlib/commit/758809791cec0d8392bf22d7956d811d6af9e663) - **feat:** add `lapack/base/dlarf` [(#12331)](https://github.com/stdlib-js/stdlib/pull/12331) _(by Pratik, Athan Reines, Karan Anand, Athan Reines)_
