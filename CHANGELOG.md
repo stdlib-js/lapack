@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-14)
+## Unreleased (2026-07-15)
 
 <section class="features">
 
@@ -36,6 +36,7 @@
 
 <details>
 
+-   [`199bb30`](https://github.com/stdlib-js/stdlib/commit/199bb30fd65e5ae83acd090f856fd0401edb8acb) - **docs:** update descriptions [(#13481)](https://github.com/stdlib-js/stdlib/pull/13481) _(by Philipp Burckhardt)_
 -   [`fa17ce3`](https://github.com/stdlib-js/stdlib/commit/fa17ce33010f7158363becd02e0545c35a548e97) - **fix:** address off-by-one indexing bug [(#13436)](https://github.com/stdlib-js/stdlib/pull/13436) _(by Aayush Khanna, Athan Reines)_
 -   [`2ad0b70`](https://github.com/stdlib-js/stdlib/commit/2ad0b70d4eae5bbc62b70d5010ce457e748670c4) - **docs:** document empty-matrix return value [(#13396)](https://github.com/stdlib-js/stdlib/pull/13396) _(by Philipp Burckhardt)_
 -   [`8fc9974`](https://github.com/stdlib-js/stdlib/commit/8fc99743f66763d218b180d7e4c98a3e889ae05a) - **docs:** add missing trailing periods to package descriptions [(#13086)](https://github.com/stdlib-js/stdlib/pull/13086) _(by Karan Anand)_
