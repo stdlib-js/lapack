@@ -37,6 +37,7 @@
 
 <details>
 
+-   [`156aaa1`](https://github.com/stdlib-js/stdlib/commit/156aaa1c98135aae4cfcb5161d5d1fcec0dd8c6a) - **bench:** update benchmarks to use decimal literals [(#13859)](https://github.com/stdlib-js/stdlib/pull/13859) _(by Philipp Burckhardt)_
 -   [`3a169fa`](https://github.com/stdlib-js/stdlib/commit/3a169fa527bb9ea60481a5b343ce1b0f0ecae87c) - **feat:** add `lapack/base/dlaruv` [(#12443)](https://github.com/stdlib-js/stdlib/pull/12443) _(by Pratik, Athan Reines, Karan Anand)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`f748b45`](https://github.com/stdlib-js/stdlib/commit/f748b45d1e3b17e3ccbd096268bf186fdeaee5ab) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
