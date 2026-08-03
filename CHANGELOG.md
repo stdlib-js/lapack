@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-02)
+## Unreleased (2026-08-03)
 
 <section class="features">
 
 ### Features
 
+-   [`cabd812`](https://github.com/stdlib-js/stdlib/commit/cabd81268d4b6b29d3fbe026c61772b8b9f53367) - add `dlaruv` to namespace
 -   [`3a169fa`](https://github.com/stdlib-js/stdlib/commit/3a169fa527bb9ea60481a5b343ce1b0f0ecae87c) - add `lapack/base/dlaruv` [(#12443)](https://github.com/stdlib-js/stdlib/pull/12443)
 -   [`367d0a4`](https://github.com/stdlib-js/stdlib/commit/367d0a4d6f44639b819cbe30b0f39b7c54ff29ed) - update `lapack/base` TypeScript declarations [(#13042)](https://github.com/stdlib-js/stdlib/pull/13042)
 -   [`1d06a97`](https://github.com/stdlib-js/stdlib/commit/1d06a97f98ef9a833194d382e1a37dfea0aeb01c) - add `disnan` and `dlaisnan` to namespace
@@ -37,6 +38,8 @@
 
 <details>
 
+-   [`67eddb8`](https://github.com/stdlib-js/stdlib/commit/67eddb82a1bae564f3603d48d158c820717bf45d) - **docs:** update namespace table of contents [(#13873)](https://github.com/stdlib-js/stdlib/pull/13873) _(by stdlib-bot)_
+-   [`cabd812`](https://github.com/stdlib-js/stdlib/commit/cabd81268d4b6b29d3fbe026c61772b8b9f53367) - **feat:** add `dlaruv` to namespace _(by Athan Reines)_
 -   [`156aaa1`](https://github.com/stdlib-js/stdlib/commit/156aaa1c98135aae4cfcb5161d5d1fcec0dd8c6a) - **bench:** update benchmarks to use decimal literals [(#13859)](https://github.com/stdlib-js/stdlib/pull/13859) _(by Philipp Burckhardt)_
 -   [`3a169fa`](https://github.com/stdlib-js/stdlib/commit/3a169fa527bb9ea60481a5b343ce1b0f0ecae87c) - **feat:** add `lapack/base/dlaruv` [(#12443)](https://github.com/stdlib-js/stdlib/pull/12443) _(by Pratik, Athan Reines, Karan Anand)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_

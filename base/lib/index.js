@@ -181,6 +181,15 @@ setReadOnly( ns, 'dlarf', require( './../../base/dlarf' ) );
 setReadOnly( ns, 'dlarf1f', require( './../../base/dlarf1f' ) );
 
 /**
+* @name dlaruv
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/lapack/base/dlaruv}
+*/
+setReadOnly( ns, 'dlaruv', require( './../../base/dlaruv' ) );
+
+/**
 * @name dlaset
 * @memberof ns
 * @readonly
