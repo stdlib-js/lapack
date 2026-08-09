@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-03)
+## Unreleased (2026-08-09)
 
 <section class="features">
 
 ### Features
 
+-   [`c3c4692`](https://github.com/stdlib-js/stdlib/commit/c3c46923b50c668ecde52feee752ca76cc995d02) - update `lapack/base` TypeScript declarations [(#13872)](https://github.com/stdlib-js/stdlib/pull/13872)
 -   [`cabd812`](https://github.com/stdlib-js/stdlib/commit/cabd81268d4b6b29d3fbe026c61772b8b9f53367) - add `dlaruv` to namespace
 -   [`3a169fa`](https://github.com/stdlib-js/stdlib/commit/3a169fa527bb9ea60481a5b343ce1b0f0ecae87c) - add `lapack/base/dlaruv` [(#12443)](https://github.com/stdlib-js/stdlib/pull/12443)
 -   [`367d0a4`](https://github.com/stdlib-js/stdlib/commit/367d0a4d6f44639b819cbe30b0f39b7c54ff29ed) - update `lapack/base` TypeScript declarations [(#13042)](https://github.com/stdlib-js/stdlib/pull/13042)
@@ -38,6 +39,8 @@
 
 <details>
 
+-   [`3208321`](https://github.com/stdlib-js/stdlib/commit/320832192c8d32b18d24c7342ba1cf03cc5affea) - **bench:** refactor to use dynamic memory allocation [(#14099)](https://github.com/stdlib-js/stdlib/pull/14099) _(by Philipp Burckhardt, Athan Reines)_
+-   [`c3c4692`](https://github.com/stdlib-js/stdlib/commit/c3c46923b50c668ecde52feee752ca76cc995d02) - **feat:** update `lapack/base` TypeScript declarations [(#13872)](https://github.com/stdlib-js/stdlib/pull/13872) _(by stdlib-bot)_
 -   [`67eddb8`](https://github.com/stdlib-js/stdlib/commit/67eddb82a1bae564f3603d48d158c820717bf45d) - **docs:** update namespace table of contents [(#13873)](https://github.com/stdlib-js/stdlib/pull/13873) _(by stdlib-bot)_
 -   [`cabd812`](https://github.com/stdlib-js/stdlib/commit/cabd81268d4b6b29d3fbe026c61772b8b9f53367) - **feat:** add `dlaruv` to namespace _(by Athan Reines)_
 -   [`156aaa1`](https://github.com/stdlib-js/stdlib/commit/156aaa1c98135aae4cfcb5161d5d1fcec0dd8c6a) - **bench:** update benchmarks to use decimal literals [(#13859)](https://github.com/stdlib-js/stdlib/pull/13859) _(by Philipp Burckhardt)_
