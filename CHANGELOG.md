@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-04)
+## Unreleased (2026-09-07)
 
 <section class="features">
 
@@ -39,6 +39,7 @@
 
 <details>
 
+-   [`96b9b4e`](https://github.com/stdlib-js/stdlib/commit/96b9b4e6b3cfd7a9744e51fa5504a1eb77dc0b25) - **test:** migrate `lapack/base/dladiv` to ULP-based assertions [(#15086)](https://github.com/stdlib-js/stdlib/pull/15086) _(by Philipp Burckhardt)_
 -   [`48d429b`](https://github.com/stdlib-js/stdlib/commit/48d429bf624b23e053d26a3050ebcd20c79f7a25) - **test:** migrate `lapack/base/dlapy2` to ULP-based assertions [(#14958)](https://github.com/stdlib-js/stdlib/pull/14958) _(by Philipp Burckhardt, Athan Reines)_
 -   [`607bbc6`](https://github.com/stdlib-js/stdlib/commit/607bbc6e104c273e5b26cabfb21a8c06f3d5d375) - **build:** avoid false positives in ESLint rule `jsdoc-doctest-decimal-point` [(#14644)](https://github.com/stdlib-js/stdlib/pull/14644) _(by Philipp Burckhardt, Athan Reines)_
 -   [`3208321`](https://github.com/stdlib-js/stdlib/commit/320832192c8d32b18d24c7342ba1cf03cc5affea) - **bench:** refactor to use dynamic memory allocation [(#14099)](https://github.com/stdlib-js/stdlib/pull/14099) _(by Philipp Burckhardt, Athan Reines)_
