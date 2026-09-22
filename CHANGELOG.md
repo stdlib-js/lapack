@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-15)
+## Unreleased (2026-09-22)
 
 <section class="features">
 
@@ -51,6 +51,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`b7e60b2`](https://github.com/stdlib-js/stdlib/commit/b7e60b2b7f998298a72f1448681a2180a2b8c7f4) - **test:** migrate `lapack/base/dpttrf` to ULP-based assertions [(#15358)](https://github.com/stdlib-js/stdlib/pull/15358) _(by Athan Reines, Philipp Burckhardt)_
 -   [`1e05f05`](https://github.com/stdlib-js/stdlib/commit/1e05f05fc4151d680febc6ae20bd8cdc73d85568) - **chore:** fix JavaScript lint errors [(#14999)](https://github.com/stdlib-js/stdlib/pull/14999) _(by Kanika Sharma)_
 -   [`96b9b4e`](https://github.com/stdlib-js/stdlib/commit/96b9b4e6b3cfd7a9744e51fa5504a1eb77dc0b25) - **test:** migrate `lapack/base/dladiv` to ULP-based assertions [(#15086)](https://github.com/stdlib-js/stdlib/pull/15086) _(by Philipp Burckhardt)_
 -   [`48d429b`](https://github.com/stdlib-js/stdlib/commit/48d429bf624b23e053d26a3050ebcd20c79f7a25) - **test:** migrate `lapack/base/dlapy2` to ULP-based assertions [(#14958)](https://github.com/stdlib-js/stdlib/pull/14958) _(by Philipp Burckhardt, Athan Reines)_
