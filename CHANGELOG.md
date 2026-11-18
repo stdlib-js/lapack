@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-24)
+## Unreleased (2026-11-18)
 
 <section class="features">
 
@@ -33,6 +33,18 @@
 
 <!-- /.bug-fixes -->
 
+<section class="breaking-changes">
+
+### BREAKING CHANGES
+
+-   [`3881298`](https://github.com/stdlib-js/stdlib/commit/388129848c187db1174c5a23006f56ec09ccfea7): use separate output arrays
+
+    -   This commit replaces a single output array with two separate output array arguments, thus more closely mirroring the underlying LAPACK API. This further allows for eventually providing separate ndarray arguments for the respective quantities, which is a general pattern we are working toward.
+
+</section>
+
+<!-- /.breaking-changes -->
+
 <section class="issues">
 
 ### Closed Issues
@@ -51,6 +63,10 @@ This release closes the following issue:
 
 <details>
 
+-   [`3881298`](https://github.com/stdlib-js/stdlib/commit/388129848c187db1174c5a23006f56ec09ccfea7) - **refactor:** update `lapack/base/dlassq` to use separate output arrays [(#15668)](https://github.com/stdlib-js/stdlib/pull/15668) _(by Ujjwal Verma, Athan Reines)_
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
+-   [`4e877c8`](https://github.com/stdlib-js/stdlib/commit/4e877c85411aa77d0c12104a569f81a87b82673b) - **docs:** update type [(#16330)](https://github.com/stdlib-js/stdlib/pull/16330) _(by Philipp Burckhardt)_
+-   [`7bf6853`](https://github.com/stdlib-js/stdlib/commit/7bf68530dd12fe22f2ec82d68e1f9a591ab042c0) - **chore:** clean-up [(#16303)](https://github.com/stdlib-js/stdlib/pull/16303) _(by Philipp Burckhardt)_
 -   [`28a3ebe`](https://github.com/stdlib-js/stdlib/commit/28a3ebeb8860701c68a7e9fe0416daabb7046a1b) - **docs:** update parameter types [(#16220)](https://github.com/stdlib-js/stdlib/pull/16220) _(by Philipp Burckhardt)_
 -   [`e78f04d`](https://github.com/stdlib-js/stdlib/commit/e78f04d723599f35af5b3c1bed2454d89a26d44d) - **test:** migrate `blas/base/wasm/cscal` to ULP-based assertions [(#15188)](https://github.com/stdlib-js/stdlib/pull/15188) _(by Athan Reines, Philipp Burckhardt)_
 -   [`b9886c4`](https://github.com/stdlib-js/stdlib/commit/b9886c4636fe60661e2c37ceaf70de728430d388) - **test:** migrate `lapack/base/spttrf` to ULP-based assertions [(#15240)](https://github.com/stdlib-js/stdlib/pull/15240) _(by Athan Reines, Philipp Burckhardt)_
@@ -94,7 +110,7 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 6 people contributed to this release. Thank you to the following contributors:
+A total of 7 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
@@ -102,6 +118,7 @@ A total of 6 people contributed to this release. Thank you to the following cont
 -   Karan Anand
 -   Philipp Burckhardt
 -   Pratik
+-   Ujjwal Verma
 
 </section>
 
