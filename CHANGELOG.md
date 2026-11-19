@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-18)
+## Unreleased (2026-11-19)
 
 <section class="features">
 
@@ -63,6 +63,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`5c704cb`](https://github.com/stdlib-js/stdlib/commit/5c704cbcb07a3a9bdb67520d7e1bad580e5f3d0d) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`3881298`](https://github.com/stdlib-js/stdlib/commit/388129848c187db1174c5a23006f56ec09ccfea7) - **refactor:** update `lapack/base/dlassq` to use separate output arrays [(#15668)](https://github.com/stdlib-js/stdlib/pull/15668) _(by Ujjwal Verma, Athan Reines)_
 -   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`4e877c8`](https://github.com/stdlib-js/stdlib/commit/4e877c85411aa77d0c12104a569f81a87b82673b) - **docs:** update type [(#16330)](https://github.com/stdlib-js/stdlib/pull/16330) _(by Philipp Burckhardt)_
